@@ -1,0 +1,1946 @@
+=== BANK 0 (count=252, expected=253) ===
+(00:000) TALK|Tap screen to talk to char-ac-ters with chat bub-bles.
+(00:001) LOCK-ED OB-JECT|Un-lock with a key-card. Find the cor-rect key-card to ac-ti-vate.
+(00:002) WIN-DOW|De-stroy with most wea-pons.
+(00:003) CRATE|Tap screen to open and get con-tents
+(00:004) FOOD|In-stant-ly re-stores some health.
+(00:005) NOTE|You made a PDA en-try. Open menu then se-lect PDA to read, or tap the Key-card slots to open the PDA.
+(00:006) OB-STA-CLE|De-stroy it with a me-lee wea-pon, if you've found one.
+(00:007) DOOR|Tap screen to open. Some doors must be un-locked with a key-card be-fore you can open them.
+(00:008) WEA-PON SE-LEC-TION|Tap wea-pon icon to cy-cle weap-ons, or press MENU then se-lect "In-ven-to-ry".
+(00:009) US-A-BLE OB-JECT|If you have the re-quired strength you can tear these out and toss them!
+(00:010) HEALTH LOW!|Use a health pack, snack, or wa-ter from your in-ven-to-ry.
+(00:011) HEALTH LOW!|Use a health pack, snack, or wa-ter from you in-ven-to-ry.
+(00:012) SHOOT-ING BOT CON-TROLS|You are now in con-trol of a shoot-ing sen-try bot. Use di-rec-tion-al keys to move, and tap screen to fire. To un--de-ploy this sen-try bot, walk back in-to the play-er, tap screen, or se-lect "Re-turn To Play-er" from the menu 
+(00:013) EX-PLO-DING SEN-TRY BOT|You are now in con-trol of an ex-plo-ding sen-try bot. Use di-rec-tion-al keys to move, and tap screen to self-de-struct. To un--de-ploy this sen-try bot, walk back in-to the play-er, tap screen, or se-lect "Re-turn To Play-er" from the menu.
+(00:014) WA-TER PIS-TOL RE-FILL|You have re-filled your wa-ter pis-tol. You can do this at any sink, toi-let, or wa-ter spout.
+(00:015) AR-MOR RE-PAIR STA-TION|Use to turn 5 ar-mor shards in-to a flak jac-ket.  Do-ing so will give you a per-ma-nent boost to your de-fense.
+(00:016) SEN-TRY BOT DIS-CARD|You can hold on-ly one sen-try bot at a time. Since you hacked anoth-er sen-try bot, your old bot has been dis-card-ed. You may re-trieve the dis-card-ed bot when you no long-er have a bot on hand.
+(00:017) VIR-TUAL TAR-GET PRAC-TICE|To be-come a great marks-man, go for head-shots, it's an auto-ma-tic crit-i-cal. Prac-tice makes per-fect! Zoom in and out us-ing the scroll bar, and ad-just the cross-hair po-si-tion by tilt-ing the dev-ice. Ses-sion ends af-ter 8 shots. Tap screen af-ter 8 shots to exit tar-get prac-tice.
+(00:018) TREAD-MILL WORK-OUT|Be-come more agile by run-ning on tread-mills.  Al-ter-nate press-ing the left and right icons to take steps.  Tim-ing is cru-cial; step-ping too slow or too fast will cause you to fall off!
+(00:019) WARN-ING|At-tack-ing a corpse with the chain-saw will de-stroy it, re-duc-ing the amount of loot you can col-lect. To loot first, switch to a weap-on other than the chain-saw, then tap screen.
+(00:020) I want my mommy!
+(00:021) Ho-ly hell, can't you do any bet-ter?  Wipe your tears and try again!
+(00:022) Need prac-tice!
+(00:023) You made it but you could use some prac-tice may-be a lot of prac-tice.
+(00:024) Wan-na-be Ma-rine
+(00:025) Not yet a Ma-rine but you're on your way. Good job!
+(00:026) Hard-core Ma-rine
+(00:027) Great job! You could be a Doom Ma-rine!
+(00:028) Doom Ma-rine
+(00:029) You are the UL-TI-MATE DOOM MA-RINE!
+(00:030) Exit
+(00:031) Play
+(00:032) To use, press MENU then se-lect "In-ven-to-ry" then "Na-no drinks", or tap the Armor icon on the HUD.
+(00:033) To use, press MENU then se-lect "In-ven-to-ry" then "Oth-er".
+(00:034) Fix me to say PDA in the "B" col-umn.  Text in "C" col-umn should say: To view notes, press MENU then se-lect "PDA".
+(00:035) To use, press MENU then se-lect "In-ven-to-ry", or tap the Health icon on the HUD.
+(00:036) Tap weap-ons icon to cy-cle weap-ons, or press MENU then se-lect "In-ven-to-ry".
+(00:037) An err-or has oc-curred. Please try start-ing the ap-pli-ca-tion again.\n\nEr-ror De-tails:\n %01
+(00:038) Game Saved
+(00:039) Game Load-ed
+(00:040) Skip
+(00:041) Load-ing
+(00:042) En-ter
+(00:043) Con-tin-ue
+(00:044) Door is Lock-ed
+(00:045) Turn Passed
+(00:046) Health at max-i-mum
+(00:047) Sor-ry!
+(00:048) Stop
+(00:049) De-tails
+(00:050) ||
+(00:051) Load-ing Game
+(00:052) Menu
+(00:053) Leave
+(00:054) Help
+(00:055) Map
+(00:056) More
+(00:057) Pro-ces-sing
+(00:058) Just a mo-ment!
+(00:059) Mon-ster is Im-mune!
+(00:060) Mon-ster stun-ned!
+(00:061) Last Shot!
+(00:062) 1 Shot Left
+(00:063) %01 Shots Left
+(00:064) Out of Range!
+(00:065) %01 dodged!
+(00:066) %01 blocked!
+(00:067) Dodged!
+(00:068) Missed!
+(00:069) %01 missed!
+(00:070) Crit! 
+(00:071) %01 dam-age!
+(00:072) De-flect-ed!
+(00:073) Wea-pon De-flect-ed!
+(00:074) %01 took %02 dam-age and died!
+(00:075) %01 took %02 dam-age!
+(00:076) Ammo: 
+(00:077) Base Dam-age: %01 \n
+(00:078) Ide-al Range: %01 -- %02 \n
+(00:079) Ide-al Range: %01 \n
+(00:080) De-flect: %01 \n
+(00:081) For more de-tails go to "Ar-mor Help" un-der the "Help" menu.
+(00:082) It burns!
+(00:083) Can't hold more %01s.
+(00:084) You got the key-card
+(00:085) Got %01
+(00:086) Got %01 %02.
+(00:087) Ammo at max-i-mum
+(00:088) %01 flees!
+(00:089) %01 de-stroyed!
+(00:090) %01%02x %03|
+(00:091) %01%02|
+(00:092) %01's raise failed!
+(00:093) %01 rais-es %02!
+(00:094) %01 fire dam-age!
+(00:095) %01 poi-son dam-age!
+(00:096) Tap Screen to Con-tin-ue
+(00:097) Ammo
+(00:098) Health
+(00:099) Tar-get
+(00:100) Sta-tus
+(00:101) Ef-fects
+(00:102) Lost %01 XP!
+(00:103) Gain-ed %01 XP.
+(00:104) LEV-EL UP: %01|
+(00:105) Max Health: %01|
+(00:106) De-fense: %01|
+(00:107) Strength: %01|
+(00:108) Ac-cu-ra-cy: %01|
+(00:109) Agi-li-ty: %01|
+(00:110) Health re-stored.|To see stats press MENU then se-lect "Sta-tus".
+(00:111) Gain-ed %01 health
+(00:112) %01 did %02 dam-age!
+(00:113) Near Death!
+(00:114) Low Health!
+(00:115) Out of Ammo!
+(00:116) Not Enough Ammo!
+(00:117) Not Ful-ly Charged!
+(00:118) Pain!
+(00:119) Found Se-cret!
+(00:120) Can-cel
+(00:121) Se-lect
+(00:122) 0.1.3.en.lg8100
+(00:123) Build 01
+(00:124) BETA
+(00:125) PgUp
+(00:126) Tap Screen to Exit
+(00:127) x%01
+(00:128) Undo
+(00:129)  Con-tents:|
+(00:130) You Got:|
+(00:131) Re-flect-ed %01 dam-age!
+(00:132) # En-ter / * Back
+(00:133) Mysterious oc-cur-ren-ces in-volv-ing UAC fa-ci-li-ties have eve-ry-one on high alert. Not much is known about the class-i-fied in-ci-dent on Mars but con-tain-ment is be-coming more dif-fi-cult as a se-ries of dis-tress sig-nals have been sent from a UAC out-post on Earth's Moon.  A con-tin-gent of Space Ma-rines, along with a rook-ie sci-en-tist, has been sent to in-ves-ti-gate
+(00:134) As the Icon of Sin turns to rub-ble and dust, the evil pres-ence you've felt dis-si-pa-tes. Though VIOS has been de-stroyed, you sense that else-where oth-er bat-tles are rag-ing.  You may have won this bat-tle, but the out-come of this WAR has yet to be de-cid-ed.  
+(00:135) Con-grat-u-la-tions!|You have found all of the %01 in this lev-el.
+(00:136) items
+(00:137) se-crets
+(00:138) en-e-mies
+(00:139) break-ables
+(00:140) No
+(00:141) Yes
+(00:142) %01 %02
+(00:143) [Re-ceived noth-ing of any use]
+(00:144) [Re-ceived %01 for %02 turns]
+(00:145) De-stroyed %01 loot items
+(00:146) Noth-ing of use
+(00:147) Re-flec-tion
+(00:148) Pur-i-fy
+(00:149) Agi-li-ty
+(00:150) Re-gen-er-a-tion
+(00:151) De-fense
+(00:152) Strength
+(00:153) Evade
+(00:154) Fo-cus
+(00:155) An-ger
+(00:156) Anti--Fire
+(00:157) For-ti-tude
+(00:158) Fear
+(00:159) Air
+(00:160) Fire
+(00:161) Dis-ease
+(00:162) Drunk
+(00:163) Dizzy
+(00:164) Hack-er
+(00:165) Sort the squares ac-cor-ding to their co-lor on-to the cor-res-pon-ding co-lor col-umn.||Tap a co-lu-mn to pick up or drop a square.
+(00:166) To se-lect/-de-se-lect a square, tap the square. Tap co-lu-mn to move square to that co-lu-mn.
+(00:167) Turns:
+(00:168) Goal
+(00:169) Mem-o-ry col-umns re-stored! Tap screen to con-tin-ue.
+(00:170) Mem-o-ry col-umn re-store failed! Tap screen to con-tin-ue.
+(00:171) Ma-trix Skip
+(00:172) Find the four cor-rect num-bers to break the code. Use the Skip Code to help you find the num-bers. Start-ing from the top left of the grid, ad-vance to the right as many spa-ces as the Skip Code in-di-cates, and ob-serve the num-ber in the space you land on. If the num-ber in the space is DIF-FER-ENT from the Skip Code, then tap the num-ber to add it to the code at the bot-tom of the screen. If the num-ber in the space is the SAME as the Skip Code, then SKIP this num-ber, and do NOT en-ter it. Re-peat this pro-cess again, start-ing from the last space you land-ed on, and con-tin-ue this pro-cess until all four num-bers are en-ter-ed. Use the Del-ete but-ton to erase the pre-vi-ous number. Use the Sub-mit but-ton to con-firm the code.
+(00:173) Hint:
+(00:174) Skip Code:
+(00:175) En-ter your code
+(00:176) Tap num-ber to pick a num-ber
+(00:177) Code Ac-cept-ed!
+(00:178) Code De-nied!
+(00:179) In-cor-rect In-put!
+(00:180) Se-lect a bot type
+(00:181) Shoot-ing
+(00:182) Ex-plo-ding
+(00:183) Can be used to scout near-by ar-eas, col-lect items, and de-stroy en-e-mies with mount-ed ri-fle.
+(00:184) Can be used to scout near-by ar-eas, col-lect items, and de-stroy en-e-mies with self--de-struct me-cha-nism.
+(00:185) De-scrip-tion:
+(00:186) WARN-ING!
+(00:187) Sen-try Bot in-i-ti-a-ting de-fen-sive ac-tion.
+(00:188) You are be-ing log-ged out. Good day.
+(00:189) Pro-gress will be lost. Still exit?
+(00:190) No room to de-ploy, step back.
+(00:191) Re-ceived all the Sen-try Bot's items.
+(00:192) Your Sen-try Bot has pe-rished!
+(00:193) Sen-try Bot can-not open doors.
+(00:194) Self--de-struct?
+(00:195) Pow-er--Up
+(00:196) Fig-ure out the unique code that adds up to the to-tal. To change a num-ber use up/down. Press "OK" to con-firm the se-lect-ed num-bers.  If the code is in-cor-rect, you will be giv-en 3 ad-di-tion-al chanc-es to fix the in-cor-rect code.
+(00:197) Cre-dits: %01
+(00:198) What would you like to do?
+(00:199) Would you like to buy?
+(00:200) Code ac-cept-ed! Pri-ces have drop-ped! 
+(00:201) Hack failed!|In-i-ti-a-ting se-cu-ri-ty pro-to-cols. 
+(00:202) Buy
+(00:203) Hack
+(00:204) High
+(00:205) Low
+(00:206) Cor-rect
+(00:207) Press "OK" to Sub-mit
+(00:208) Tap screen to Con-tin-ue.
+(00:209) Wrong code!|Tries left: 
+(00:210) You do not have enough ar-mor shards (5) to use this sta-tion.
+(00:211) Would you like to turn 5 ar-mor shards in-to a flak jac-ket?
+(00:212) Cre-at-ed a flak jac-ket|+%01 to De-fense
+(00:213) Cre-at-ed a flak jac-ket|No De-fense Bo-nus|De-fense at Max
+(00:214) MALLOC
+(00:215) DELETE
+(00:216) Re-turn
+(00:217) Can-not de-ploy sen-try bot here.
+(00:218) You are un-der at-tack!|Sen-try bot has re-turned.
+(00:219) You are un-der at-tack!|Sen-try bot can-not be de-ployed.
+(00:220) Dis-card
+(00:221) Can-not dis-card sen-try bot here.
+(00:222) No Bot Ac-cess
+(00:223) You picked up a|dis-card-ed sen-try bot.
+(00:224) Major Morgan
+(00:225) Dr. O'Connor
+(00:226) Sgt. Blazkowicz
+(00:227) Loot-ed Items:
+(00:228) None found!|
+(00:229) Score:
+(00:230) Head-shot!
+(00:231) Body-shot!
+(00:232) Leg-shot!
+(00:233) Prac-tice Score: %01|+%02 to Ac-cu-ra-cy
+(00:234) Prac-tice Score: %01|No Ac-cu-ra-cy Bo-nus
+(00:235) Prac-tice Score: %01|No Ac-cu-ra-cy Bo-nus|Ac-cu-ra-cy at Max
+(00:236) Hack Suc-cess-ful!|+%01 to I.Q.
+(00:237) Hack Suc-cess-ful!|No Bo-nus.|I.Q. is at Max.
+(00:238) You don't have the strength to pick this up!
+(00:239) Hack Suc-cess-ful!
+(00:240) Hack Failed!
+(00:241) +%01 to Strength|due to chain-saw use
+(00:242) Work-out Pro-gress: %01\%
+(00:243) Work-out Com-plete!|+%01 to Agi-li-ty
+(00:244) Work-out Com-plete!|No Bo-nus.|Agi-li-ty is at Max.
+(00:245) Work-out Failed!|Watch your step!
+(00:246) Work-out Abort-ed
+(00:247) Warn-ing:|Tread-mill ex-cee-ding safe-ty speed!
+(00:248) Wa-ter Pis-tol Re-filled
+(00:249) Wa-ter Pis-tol Al-ready Full
+(00:250) In-suf-fi-cient Space.|Please de-lete|some files and|try again.
+(00:251) Cloth-ing will|jam your chain-saw!
+=== BANK 1 (count=182, expected=183) ===
+(01:000) As-sault Ri-fle
+(01:001) An auto-mat-ic ri-fle with 2 shots per turn.
+(01:002) Chain-saw
+(01:003) Pow-er-ful me-lee wea-pon for sli-cing and di-cing op-po-nents, and break-ing de-struc-ti-ble ob-jects such as chairs and tab-les. Use this wea-pon on mon-sters enough and your strength will in-crease!
+(01:004) Ho-ly Wa-ter Pis-tol
+(01:005) A sa-cred amu-let charms the wa-ter in-side and creates ho-ly wa-ter; bad news for Hell-spawn. Crea-tures from Hell will take dam-age and be-come ter-ri-fied of you when at-tacked with this wea-pon. Re-fill at sinks, toi-lets, and wa-ter spouts. You can al-so drink the ho-ly wa-ter to re-gain health and in-still fear in mon-sters. To use this func-tion-al-ity, press MENU then se-lect "In-ven-to-ry".
+(01:006) Shoot-ing Bot
+(01:007) Shoot-ing Sen-try Bot
+(01:008) Can be used to scout near-by ar-eas, col-lect items, and de-stroy en-e-mies with mount-ed ri-fle. Sen-try bots are im-per-vious to fire, and you can on-ly have one sen-try bot at a time. You can dis-card your bot by press-ing dis-card while the sen-try bot is equipped. Dis-card-ed sen-try bots can be picked back up at a lat-er time.
+(01:009) Ex-plo-ding Bot
+(01:010) Ex-plo-ding Sen-try Bot
+(01:011) Can be used to scout near-by ar-eas, col-lect items, and de-stroy en-e-mies with a self--de-struct me-cha-nism. Sen-try bots are im-per-vious to fire, and you can on-ly have one sen-try bot at a time. You can dis-card your bot by press-ing dis-card while the sen-try bot is equipped. Dis-card-ed sen-try bots can be picked back up at a lat-er time.
+(01:012) Su-per Shot-gun
+(01:013) A pow-er-ful close--range wea-pon. Fires 2 shells at a time. 
+(01:014) Chain-gun
+(01:015) A mighty gun that fires 4 pow-er-ful shots in one turn. Uses reg-u-lar bul-lets.
+(01:016) Ri-fle with Scope
+(01:017) As-sault Ri-fle w/ Scope
+(01:018) The attached scope al-lows for very pre-cise tar-get-ing. Aim for soft spots!
+(01:019) Plas-ma Gun
+(01:020) Fires bursts of en-er-gy at a rate of 3 per turn. Good for en-e-mies that won't back down.
+(01:021) Rock-et Launch-er
+(01:022) Fires pow-er-ful rock-ets that ex-plode on con-tact. Just make sure you are far enough from where the dam-age hap-pens!
+(01:023) BFG
+(01:024) The. Ul-ti-mate. Gun.  Shoots a slow--mov-ing ball of green plas-ma that con-tains a small com-pu-ter chip. This chip iden-ti-fies and shoots rays at op-po-nents be-fore the ini-ti-al ex-plo-sion that will kill most de-mons near the blast.
+(01:025) Soul Cube
+(01:026) "We are many, we are one; we are the Prael-ean-thor, you know us as the Soul Cube." Pow-ered with the life force li-be-ra-ted fol-low-ing the death of any en-e-my,  5 kills will leave the Cube ful-ly--charged and ready to wreak havoc.
+(01:027) Spikes
+(01:028) Sen-try Bot
+(01:029) Red Sen-try Bot
+(01:030) Zom-bie Work-er
+(01:031) Zom-bie Ci-vil-ian
+(01:032) Zom-bie Tech
+(01:033) Imp-ling
+(01:034) Imp
+(01:035) Imp Lord
+(01:036) Lesser Saw-cu-bus
+(01:037) Great-er Saw-cu-bus
+(01:038) Chain-stro-sity
+(01:039) Bull De-mon
+(01:040) Pinky
+(01:041) Bel-phe-gor
+(01:042) Be-he-moth
+(01:043) Man-cu-bus
+(01:044) Druj
+(01:045) Mal-wrath
+(01:046) Ca-co-de-mon
+(01:047) Wretch-ed
+(01:048) Brier
+(01:049) Watcher
+(01:050) Sen-ti-nel
+(01:051) Troop
+(01:052) Com-man-do
+(01:053) As-sas-sin
+(01:054) Phan-tom
+(01:055) Lost Soul
+(01:056) Night-mare
+(01:057) In-fer-nis
+(01:058) Arch--Vile
+(01:059) Apol-lyon
+(01:060) Ghoul
+(01:061) Fiend
+(01:062) Rev-e-nant
+(01:063) Ar-ach-no-tron
+(01:064) Cy-ber-de-mon
+(01:065) Pink-i-na-tor
+(01:066) Mas-ter-mind
+(01:067) VIOS
+(01:068) Red Key-card
+(01:069) Key-card that un-locks red doors.
+(01:070) Blue Key-card
+(01:071) Key-card that un-locks blue doors.
+(01:072) Flak Jac-ket
+(01:073) Gives you 50 ar-mor. Ar-mor pro-vides pro-tec-tion from close and long--range as-saults.
+(01:074) Ar-mor Shard
+(01:075) Gives you 10 ar-mor. Ar-mor pro-vides pro-tec-tion from close and long--range as-saults.
+(01:076) Bot-tled Wa-ter
+(01:077) Fills up 20\% of your ho-ly wa-ter pis-tol, ap-plied auto-ma-ti-cal-ly.
+(01:078) Bul-lets
+(01:079) Am-mu-ni-tion for guns that use reg-u-lar bul-lets.
+(01:080) Shells
+(01:081) Am-mu-ni-tion for guns that use shot-gun shells.
+(01:082) Rock-ets
+(01:083) High ex-plo-sives that can be launched.
+(01:084) En-er-gy Cell
+(01:085) Am-mu-ni-tion for guns that use en-er-gy cells.
+(01:086) Ho-ly Wa-ter
+(01:087) Gives you 25 health per gulp, and makes all near-by hell--spawned en-e-mies fear you for their next two turns. Con-sumed straight from the ho-ly wa-ter pis-tol.
+(01:088) Souls
+(01:089) Souls for the spi-ri-tual po-ten-tial-ity ma-trix of the Soul Cube.
+(01:090) Pack
+(01:091) Wor-ker's Pack
+(01:092) A sim-ple pack full of tools.
+(01:093) Smoo-thie
+(01:094) Smoo-thie Drink
+(01:095) In-creas-es your speed -- move twice as fast as op-po-nents for 20 turns. Not ef-fec-tive ag-ainst bos-ses!
+(01:096) Caf-feine Block
+(01:097) Caf-feine Block Drink
+(01:098) Gives +25 to your De-fense for 30 turns.
+(01:099) Fo-cus Juice
+(01:100) Fo-cus Juice Drink
+(01:101) Gives +5 to your Ac-cu-ra-cy for 30 turns.
+(01:102) Su-per Quench
+(01:103) Su-per Quench Drink
+(01:104) Re-moves fire ef-fects and pro-tects against fire for 10 turns.
+(01:105) Mon-ster Shot
+(01:106) Mon-ster Shot Drink
+(01:107) In-creas-es the dam-age of all your at-tacks by 100\% for 30 turns.
+(01:108) Di-et Might
+(01:109) Di-et Might Drink
+(01:110) Gives +25 to your Agi-li-ty for 30 turns.
+(01:111) En-er-gy Blast
+(01:112) En-er-gy Blast Drink
+(01:113) In-creas-es your max-i-mum health by 20 points for 30 turns. Heals you the same amount as well.
+(01:114) Youth Ser-um
+(01:115) Youth Ser-um Drink
+(01:116) Re-gen-er-ates some of your health eve-ry turn for 30 turns.
+(01:117) Hell Knight Sweat
+(01:118) Gives +25 to De-fense and Agi-li-ty, gives +5 to Ac-cu-ra-cy, and in-creas-es the dam-age of all your at-tacks by 25\%.  Drink's ef-fect lasts 30 turns.
+(01:119) Pow-er Punch
+(01:120) Pow-er Punch Drink
+(01:121) In-creas-es the dam-age of all your at-tacks by 25\% and gives +20 to your Strength for 30 turns.
+(01:122) Snake Ve-nom
+(01:123) Snake Ve-nom Drink
+(01:124) Gives you the pow-er to poi-son en-e-mies! En-e-my will be con-tin-uous-ly dam-aged for 10 turns once en-e-my is hit. Drink's ef-fect lasts 10 turns.
+(01:125) Switch
+(01:126) Ven-ding Ma-chine
+(01:127) Ar-mor Re-pair Sta-tion
+(01:128) Ta-ble
+(01:129) Com-pu-ter
+(01:130) Fire
+(01:131) Toi-let
+(01:132) Sink
+(01:133) Wa-ter Spout
+(01:134) Chair
+(01:135) Ske-le-ton
+(01:136) Crate
+(01:137) Win-dow
+(01:138) Un-locked Red Door
+(01:139) Lock-ed Red Door
+(01:140) Un-locked Blue Door
+(01:141) Lock-ed Blue Door
+(01:142) Lock-ed Door
+(01:143) Un-locked Door
+(01:144) Wrench this item free to throw it at things.
+(01:145) Snack
+(01:146) Gives you 20 health.
+(01:147) Health Pack
+(01:148) Gives you 80 health.
+(01:149) Tray of Food
+(01:150) Exit
+(01:151) NONOBSPRITEWALL
+(01:152) SPRITEWALL
+(01:153) SECRET_SPRITEWALL
+(01:154) World
+(01:155) PDA
+(01:156) Auto-ma-ti-cal-ly keeps im-por-tant notes.
+(01:157) UAC Cre-dits
+(01:158) Use at ven-ding ma-chines, tar-get prac-tice ma-chines, and tread-mills.
+(01:159) 
+(01:160) Print-er
+(01:161) Tar-get Prac-tice
+(01:162) Main-frame Ac-cess
+(01:163) Sen-try Bot Ac-cess
+(01:164) Stor-age Ac-cess
+(01:165) Lad-der
+(01:166) Tread-mill
+(01:167) Tar-get
+(01:168) Lock-ed Ex-ter-i-or Door
+(01:169) Un-locked Ex-ter-i-or Door
+(01:170) Tech Sta-tion
+(01:171) Mixom Glae-ven-scope
+(01:172) Sep-tic Sta-tion
+(01:173) Riley O'Connor
+(01:174) Kira Morgan
+(01:175) Caldex
+(01:176) Ci-vil-ian
+(01:177) Stan Blazkowicz
+(01:178) Lisa
+(01:179) Evil Sci-en-tist
+(01:180) Sci-en-tist
+(01:181) Re-search-er
+=== BANK 2 (count=13, expected=14) ===
+(02:000) |Id Software LLC,|a division of ZeniMax Media Inc.|| CRE-DITS ||Pro-duc-er|KATHERINE A. KANG||Pro-gram-ming|JOHN CARMACK|GRAYSON WENDELL|JACOB ENGET|GREG HODGES||De-sign|KATHERINE A. KANG|MATTHEW C. ROSS|ERIK WESSLEN|MICHAEL WILLIAMS||Art-work|MATTHEW C. ROSS|LISA A. KESTER|JAMES CARY||Mu-sic and Sound|CHRISTIAN ANTKOW|BOBBY PRINCE||Biz|STEVE NIX||||Director of QA|DARREN MANES||QA Manager|ROB GRAY||QA Lead|JAMES COSTANTINO||Testers|ROB CLARK|JON DEVRIENDT|LADAWNA GROW|MARISA LYON|JOE MUELLER|MATT PONTON|GREG RUDDICK|CHRIS STEIDEL|LARRY WALDMAN||||||||||Thanks for Play-ing!||
+(02:001) #HOW TO PLAY|Use the di-rec-tion-al pad to move. Tap screen to talk, at-tack and use it-ems.||#OTH-ER|Tap char-acter image to pass turn/skip|Tap Health icon to open In-ven-tory|Tap Ar-mor icon to open Nano Drinks menu|Tap Key-card slots to open PDA|Map: view map|Menu: open menu|Back: prev-ious screen
+(02:002) #HOW TO MOVE|Swipe screen up/down to move for-ward/back-ward.||Swipe screen left/right to strafe.||Use di-rec-tion-al pad to move and turn.
+(02:003) #HOW TO AT-TACK||Tap screen to at-tack/talk/use||Tap wea-pon icon to change to next wea-pon||Hold wea-pon icon to select from all av-ail-a-ble wea-pons||Tap char-acter image to pass turn/skip
+(02:004) #AR-MOR HELP|Ar-mor ab-sorbs a por-tion (about 2/3) of dam-age re-ceived. On the HUD, the amount of dam-age that ar-mor can ab-sorb is dis-played over the ar-mor vest icon.
+(02:005) #EF-FECTS LIST|| \C Haste|| \D Re-gen-er-a-tion|| \E De-fense|| \F Strength|| \G Evade|| \H Fo-cus|| \I Adre-na-line|| \J Anti--Fire|| \K For-ti-tude|| \L Fear|| \M Poi-soned Weap-ons|| \N Fire|| 
+(02:006) #ITEM HELP|You'll en-coun-ter food, pow-er drinks, am-mu-ni-tion, weap-ons, ar-mor, me-di-ca-tion, and oth-er items to aid you. These items may be viewed and used from the In-ven-to-ry menu. ||You can ac-cess the In-ven-to-ry menu from with-in the in--game menu, or you can ac-cess the In-ven-to-ry menu by tap-ping the Health icon on the HUD dur-ing game-play. You can also ac-cess the Nano Drinks sec-tion of the In-ven-to-ry menu by tap-ping the Armor icon on the HUD dur-ing game-play. ||Us-ing an item takes a turn. Af-ter use, if you're at-tacked, you'll re-turn to the game; oth-er-wise you may stay in menu and con-tin-ue to use items. ||#EF-FECTS|Item ef-fects last a num-ber of turns. Ac-tive ef-fects show at the right--hand side of dis-play, along with its re-main-ing turns.||
+(02:007) #SNI-PER RI-FLE||Equip sni-per ri-fle, then tap screen to enter SNI-PER MODE.||In SNI-PER MODE use the scroll-bar to zoom in/out and tilt the dev-ice to aim.||Tap screen to fire.||Tap wea-pon icon to exit.
+(02:008) #HACK-ER|Sort the squares ac-cor-ding to their co-lor on-to the cor-res-pon-ding co-lor col-umn.||Tap square to pick up or drop and tap col-umn to move.
+(02:009) #MA-TRIX SKIP|Find the four cor-rect num-bers to break the code. Use the Skip Code to help you find the num-bers. Start-ing from the top left of the grid, ad-vance to the right as many spa-ces as the Skip Code in-di-cates, and ob-serve the num-ber in the space you land on. If the num-ber in the space is DIF-FER-ENT from the Skip Code, then tap the num-ber to add it to the code at the bot-tom of the screen. If the num-ber in the space is the SAME as the Skip Code, then SKIP this num-ber, and do NOT en-ter it. Re-peat this pro-cess again, start-ing from the last space you land-ed on, and con-tin-ue this pro-cess until all four num-bers are en-ter-ed. Use the Del-ete but-ton to erase the pre-vi-ous number. Use the Sub-mit but-ton to con-firm the code.||||
+(02:010) #POW-ER--UP|Fig-ure out the unique code that adds up to the to-tal. To change a num-ber use up/down. Press the OK button to con-firm the code. If the code is in-cor-rect, you will be giv-en 3 ad-di-tion-al chanc-es to fix the in-cor-rect code.
+(02:011) Cust-o-mer ser-vice:|Send email to iphonesupport@idsoftware.com.||DOOM II RPG © 2010 id Soft-ware LLC, a ZeniMax Me-dia com-pany. DOOM, DOOM II (styl-ized), DOOM II RPG, ID, and re-la-ted logos are trade-marks or re-gi-ster-ed trade-marks of id Soft-ware LLC in the Uni-ted States and/or other coun-tries.  ZeniMax and the ZeniMax logo are trade-marks or re-gi-ster-ed trade-marks of ZeniMax Me-dia Inc. in the Uni-ted States and/or other coun-tries. All Rights Re-ser-ved.
+(02:012)   Mis-sion Up-date |Greet-ings, %01. Mars De-par-ture has cleared us for fre-quen-cy change and trans--Earth in-jec-tion. Des-ti-na-tion set for Earth's moon -- Ty-cho Sta-tion. Stand by for pri-ma-ry burn.
+=== BANK 3 (count=398, expected=399) ===
+(03:000) 
+(03:001) [None]
+(03:002) PLAY-ER
+(03:003) Health:
+(03:004) Cur-rent and max health
+(03:005) Ar-mor:
+(03:006) Cur-rent and max ar-mor
+(03:007) Play-er Rank:
+(03:008) Cur-rent Rank
+(03:009) Cur-rent XP:
+(03:010) Your ex-pe-ri-ence points
+(03:011) Next XP Rank:
+(03:012) XP to reach the next rank
+(03:013) De-fense:
+(03:014) Re-duc-es dam-age re-ceived
+(03:015) Strength:
+(03:016) Af-fects me-lee dam-age dealt
+(03:017) Fo-cus:
+(03:018) Af-fects chance to hit
+(03:019) Evade:
+(03:020) Af-fects chance to dodge
+(03:021) STA-TUS
+(03:022) Play-er
+(03:023) In-for-ma-tion about your rank and XP
+(03:024) Lev-el
+(03:025) Pro-gress through this lev-el
+(03:026) Me-dals
+(03:027) LEV-ELS
+(03:028) Time:
+(03:029) Time spent on this lev-el
+(03:030) Se-crets:
+(03:031) Se-crets found / to-tal
+(03:032) En-e-mies:
+(03:033) En-e-mies killed / to-tal
+(03:034) Turns:
+(03:035) Turns on this lev-el
+(03:036) Grade:
+(03:037) Level Grade
+(03:038) A+
+(03:039) A
+(03:040) B
+(03:041) C
+(03:042) D
+(03:043) F
+(03:044) --
+(03:045) Grades
+(03:046) Level
+(03:047) Current
+(03:048) Best
+(03:049) Grades for all le-vels
+(03:050) Loot Found:
+(03:051) Items found / to-tal
+(03:052) World Ob-jects:
+(03:053) Ob-jects de-stroyed / to-tal
+(03:054) To-tal time spent play-ing
+(03:055) To-tal turns
+(03:056) Deaths:
+(03:057) To-tal num-ber of deaths
+(03:058) Best Shot:
+(03:059) Most dam-a-ging at-tack
+(03:060) Shots Fi-red:
+(03:061) Num-ber of shots fi-red.
+(03:062) Shots Missed:
+(03:063) Num-ber of shots missed.
+(03:064) To-tal Dam-age:
+(03:065) To-tal dam-age dealt
+(03:066) WEAP-ONS
+(03:067) Na-no drink:
+(03:068) 100\% SE-CRETS
+(03:069) None
+(03:070) Con-tin-ue  
+(03:071) New Game  
+(03:072) Op-tions   
+(03:073) Mini Games
+(03:074) Game Help 
+(03:075) About     
+(03:076) Exit      
+(03:077) Other Games
+(03:078) Con-fig-ure the game
+(03:079) Help with the game
+(03:080) Back
+(03:081) Back         
+(03:082) Re-turn to pre-vi-ous menu
+(03:083) How to Play  
+(03:084) Ba-sic con-trols
+(03:085) How to Move  
+(03:086) Move-ment con-trol de-tails
+(03:087) How to At-tack
+(03:088) Com-bat con-trol de-tails
+(03:089) Sni-per Ri-fle 
+(03:090) Sni-per Ri-fle con-trol de-tails
+(03:091) Ar-mor Help   
+(03:092) De-tails on how ar-mor works
+(03:093) Item Help    
+(03:094) De-tails how items work
+(03:095) Hack-er       
+(03:096) Help with the Hack-er mini-game
+(03:097) Ma-trix Skip  
+(03:098) Help with the Ma-trix Skip mini-game
+(03:099) Pow-er--Up     
+(03:100) Help with the Pow-er--Up mini-game
+(03:101) Ef-fects List 
+(03:102) Sta-tus ef-fect de-tails
+(03:103) Cre-dits      
+(03:104) Cre-dits
+(03:105) View de-ve-lo-per cre-dits
+(03:106) Exit Game?
+(03:107) This will erase\nyour saved game.\n\nAre you sure?
+(03:108) Are you sure?
+(03:109) Re-sume Game
+(03:110) Re-turn to the game
+(03:111) IN-VEN-TO-RY
+(03:112) HEALTH
+(03:113) AR-MOR
+(03:114) In-ven-to-ry
+(03:115) All of your items
+(03:116) PDA
+(03:117) Logs im-por-tant in-for-ma-tion
+(03:118) Save Game
+(03:119) Save game pro-gress
+(03:120) Load Game
+(03:121) Re-store last saved game
+(03:122) View Map
+(03:123) View the lev-el map
+(03:124) Sta-tus
+(03:125) View game sta-tis-tics
+(03:126) Re-start Lev-el
+(03:127) Load auto--saved game
+(03:128) Save & Quit
+(03:129) Save game and exit
+(03:130) Main Menu
+(03:131) Exit to main menu
+(03:132) Mini Game Menu
+(03:133) Exit to mini-game menu
+(03:134) Re-start Lev-el?
+(03:135) Save & Quit?
+(03:136) Load Game?
+(03:137) You will lose\nall un-saved pro-gress.\nAre you sure?
+(03:138) No Saved Game
+(03:139) GAME HELP
+(03:140) Tap Screen to
+(03:141) Doom II RPG
+(03:142) on
+(03:143) off
+(03:144) Sound
+(03:145) Music Volume:
+(03:146) Effects:
+(03:147) Vi-brate
+(03:148) Vi-brate:
+(03:149) SoundFx Volume:
+(03:150) Lan-guage:
+(03:151) Go to Main Menu?
+(03:152) Save Game 
+(03:153) Don't Save
+(03:154) Can-cel    
+(03:155) Ty-cho
+(03:156) Ci-chus
+(03:157) Kep-ler
+(03:158) UAC Ad-min
+(03:159) UAC Labs
+(03:160) UAC R&D
+(03:161) Ge-hen-na
+(03:162) Abad-don
+(03:163) VIOS
+(03:164) Earth
+(03:165) Earth's moon
+(03:166) Hell
+(03:167) Test Map
+(03:168) En-a-ble Sounds?
+(03:169) Try Again?
+(03:170) Load Saved Game
+(03:171) Re-start Lev-el  
+(03:172) Main Menu      
+(03:173) Yes, please!
+(03:174) No, thanks!
+(03:175) Weap-ons
+(03:176) Your weap-ons
+(03:177) NA-NO DRINKS
+(03:178) Na-no Drinks
+(03:179) Your na-no drinks
+(03:180) UAC CRE-DITS
+(03:181) UAC Cre-dits
+(03:182) Cre-dits you have ac-quired
+(03:183) OTH-ER
+(03:184) Use %01?
+(03:185) Your health is
+(03:186) Your ar-mor is
+(03:187) at its max-i-mum.
+(03:188) Ok
+(03:189) Can-not con-sume drink.
+(03:190) Can-not drink any more.
+(03:191) Ef-fects at max-i-mum.
+(03:192)  x
+(03:193) Menu
+(03:194) Load-ing Game
+(03:195) Game Load-ed
+(03:196) Sav-ing Game
+(03:197) Yes
+(03:198) No 
+(03:199) ABOUT
+(03:200) RANK-ING
+(03:201) DIF-FI-CULT RANK-ING
+(03:202) NIGHT-MARE RANK-ING
+(03:203) Your Final Grade:
+(03:204) Your Rank:
+(03:205) Con-tin-ue Play-ing?
+(03:206) Choose Game Mode:
+(03:207) Nor-mal   
+(03:208) Dif-fi-cult
+(03:209) Night-mare
+(03:210) Choose a Char-ac-ter
+(03:211) Use your di-rec-tion-al pad to se-lect one of the three im-a-ges, then press "OK."
+(03:212) Major
+(03:213) Sarge
+(03:214) Sci-en-tist
+(03:215) Kira Morgan
+(03:216) Stan Blazkowicz
+(03:217) Riley O'Connor
+(03:218) Major Morgan
+(03:219) Ser-geant Blazkowicz
+(03:220) Dr. O'Connor
+(03:221) Choose this char-ac-ter?
+(03:222) Stats
+(03:223) Agi-li-ty:
+(03:224) Ac-cu-ra-cy:
+(03:225) IQ:
+(03:226) High-er IQ means easier minigames
+(03:227) [Failed]
+(03:228) Sav-ing
+(03:229) Ver-sion: 
+(03:230) Save Game?
+(03:231) Hack-er     
+(03:232) Ma-trix Skip
+(03:233) Pow-er--Up   
+(03:234) Back       
+(03:235) You got 
+(03:236) De-tailed stats can be found in the In--Game Sta-tus menu un-der 'Level'
+(03:237) This will exit DOOM II RPG\nand open a browser window.
+(03:238) Get More Games
+(03:239) Orcs & Elves II
+(03:240) Wolf-en-stein RPG
+(03:241) %01
+(03:242) %02
+(03:243) %03
+(03:244) %04
+(03:245) %05
+(03:246) %06
+(03:247) %07
+(03:248) %08
+(03:249) %09
+(03:250) %10
+(03:251) %11
+(03:252) %12
+(03:253) %13
+(03:254) %14
+(03:255) %15
+(03:256) %16
+(03:257) %17
+(03:258) %18
+(03:259) %19
+(03:260) %20
+(03:261) %21
+(03:262) %22
+(03:263) %23
+(03:264) %24
+(03:265) %25
+(03:266) %26
+(03:267) %27
+(03:268) %28
+(03:269) %29
+(03:270) %30
+(03:271) %31
+(03:272) %32
+(03:273) %33
+(03:274) %34
+(03:275) %35
+(03:276) %36
+(03:277) %37
+(03:278) %38
+(03:279) %39
+(03:280) %40
+(03:281) %41
+(03:282) %42
+(03:283) %43
+(03:284) %44
+(03:285) %45
+(03:286) %46
+(03:287) %47
+(03:288) %48
+(03:289) %49
+(03:290) %50
+(03:291) r_skipDecals
+(03:292) r_skip2D
+(03:293) Drive
+(03:294) Shoot
+(03:295) Aim-Shoot
+(03:296) TurnShoot
+(03:297) renderMode
+(03:298) Off
+(03:299) De-bug
+(03:300) De-fault
+(03:301) Change Map
+(03:302) De-bug Sys-tem
+(03:303) showLocation
+(03:304) r_frames
+(03:305) r_speeds
+(03:306) r_skipCull
+(03:307) r_skipBSP
+(03:308) r_skipFlats
+(03:309) r_skipLines
+(03:310) r_skipSprites
+(03:311) r_onlyRender
+(03:312) No Clip
+(03:313) One Shot Kill
+(03:314) Skip Minigames
+(03:315) Dis-able AI
+(03:316) Equip for map
+(03:317) God mode
+(03:318) Give all
+(03:319) Give map
+(03:320) Im-age Mem_b:
+(03:321) Sprite Mem_k:
+(03:322) Line Mem_k:
+(03:323) BSP Mem_k:
+(03:324) Totl Mem_k:
+(03:325) Free Mem_k:
+(03:326) Avail MemK:
+(03:327) Peak MemK:
+(03:328) Used Mem_k:
+(03:329) Tex Mem_k:
+(03:330) Init Mem_k:
+(03:331) Map Mem_k:
+(03:332) In-fi-nite Loop
+(03:333) In-fi-nite Re-cur-sion
+(03:334) Un-handled Ex-cep-tion
+(03:335) Code Block
+(03:336) Re-paint Block
+(03:337) Sound Block
+(03:338) Ran-dom Sound
+(03:339) Ran-dom Sound De-lay
+(03:340) Back Light
+(03:341) Ad-vance Time
+(03:342)  © ©   Ø ¼ ½ ¾   À Á Â Ã Ä Å ß È É Ê Ë Ì Í Î Ï Ñ Ò Ó Ô Õ Ö Ù Ú Û Ü Ý à á â ã ä å ç è é ê ë ì í î ï ð ñ ò ó ô õ ö ù ú û ü ý ÿ ¿ ¡ ¢ x
+(03:343) De-bug Font
+(03:344) Ven-ding Ma-chine
+(03:345) Con-firm Or-der
+(03:346) Press UP/DOWN
+(03:347) to change quan-ti-ty
+(03:348) Tap item to buy
+(03:349) Press back to go back  
+(03:350) %01 x %02
+(03:351) To-tal Cost: %01
+(03:352) Snacks
+(03:353) Meals
+(03:354) You can't af-ford this!
+(03:355) Re-turn To Play-er
+(03:356) Auto-ma-ti-cal-ly re-turn to the play-er
+(03:357) Show Heap
+(03:358) Moon Cake
+(03:359) Moon Shine
+(03:360) Moon Tofu
+(03:361) Moon Paste
+(03:362) Space Chips
+(03:363) Space Coo-kies
+(03:364) Swiss Cheese
+(03:365) Gou-da Cheese
+(03:366) Ched-dar Cheese
+(03:367) Cheese Crack-ers
+(03:368) Mac n' Cheese
+(03:369) Christy's Cake
+(03:370) Baked Chips
+(03:371) Fried Chips
+(03:372) Su-gar Coo-kies
+(03:373) Sni-cker Doo-dle
+(03:374) Ma-ca-roon
+(03:375) Scone
+(03:376) Cho-co-late Bar
+(03:377) Cann-ed Tuna
+(03:378) Rai-sins
+(03:379) Rice Cakes
+(03:380) Ha-ba-nero Nuts
+(03:381) Ja-la-pe-no Chips
+(03:382) Ca-jun Chi-cken
+(03:383) Creole Craw-fish
+(03:384) Hot Ta-ma-les
+(03:385) Kim Chi
+(03:386) Bibimbap
+(03:387) Vin-da-loo
+(03:388) Cur-ry Rice
+(03:389) Wat Har Bo
+(03:390) Sri-ra-cha
+(03:391) Comic Book
+(03:392) Chevrons
+(03:393) Arrows
+(03:394) Classic
+(03:395) Controls
+(03:396) Layout
+(03:397) Flip
+=== BANK 4 (count=185, expected=186) ===
+(04:000) 
+(04:001) Ty-cho
+(04:002) RE-MIND-ER|You can save your game at any time. To save game, press Menu to open menu then se-lect "Save Game."
+(04:003) HINT|To pass a turn and stay in place, tap character image.
+(04:004) HINT|To change your weap-ons, tap on the weap-on icon.
+(04:005) HINT|Health Packs re-store 80 health points. Use them wise-ly. 
+(04:006) HINT|Push-ing against some walls un-covers se-crets.
+(04:007) HINT|You can side step left and right -- to side step left, swipe screen left, to side step right, swipe screen right.
+(04:008) HINT|Ar-mor helps re-duce the amount of dam-age an en-e-my does to you. If you have ar-mor, equip it by press-ing Menu to ac-cess the menu then choose in-ven-to-ry.
+(04:009) Cap-tain: Eve-ry-one, bu-ckle up!
+(04:010) Cap-tain: We're land-ing at Ty-cho Sta-tion.
+(04:011) Cap-tain: Rough land-ing. Sor-ry about that!
+(04:012) Cap-tain: What the what was that?!
+(04:013) Major: Some-thing strange is go-ing on here. 
+(04:014) Some-thing strange is go-ing on here. 
+(04:015) Major: Eve-ry-one, be on guard.
+(04:016) Eve-ry-one, be on guard.
+(04:017) HELP! There's
+(04:018) Die hell spawn!
+(04:019) Fol-low me! HUR-RY!!
+(04:020) Caldex
+(04:021) It's about time you got here! We need all the as-sis-tance we can get. Hur-ry, let's get mov-ing!
+(04:022) Some-one needs to stay here to meet the rest of our squad.
+(04:023) Some-one needs to stay here to meet the rest of our squad. I'll stay. The rest of you move out.
+(04:024) I'll stay.
+(04:025) Al-right, you'll need this then. With luck, we'll meet up soon.
+(04:026) We'll stay in touch via our comm link. Stay alert!
+(04:027) Let's go!
+(04:028) This area is un-sta-ble. You have to get out of here! 
+(04:029) I can't aban-don the squad.
+(04:030) Caldex said to get you out! I'll stay in the next room and wait as long as I can. Hur-ry!
+(04:031) How do I find the oth-ers?
+(04:032) They're head-ing to Maglev sta-tion. You'll need a blue key-card to get through. I gave mine to Caldex and the tech in this room has the oth-er one. Er I mean, what's left of him. Search the body and get the key-card you don't have much time.
+(04:033) Are you kid-ding me?! You want me to loot the corpse to your right?
+(04:034) Did-n't know I'd be knee deep in the dead so soon.
+(04:035) You're go-ing. I'm stay-ing. The on-ly way to get out is that key-card. I sug-gest you hur-ry up. Pick up the key-card, ga-ther as many sup-plies as you can and go!
+(04:036) Find Maglev sta-tion to find the rest of your par-ty.
+(04:037) Loot the corpse to get the Blue Key-card.
+(04:038) Get the blue key-card off that body over there.
+(04:039) Maglev sta-tion is near the car-go bays. Hur-ry!
+(04:040) Please, go. I'll wait as long as I can.
+(04:041) LOOT-ING|To loot, stand next to a corpse, face it, then tap screen. A corpse that can be loot-ed will have a glow-ing out-line.
+(04:042) Major Morgan
+(04:043) Sgt. Blazkowicz
+(04:044) Dr. O'Connor
+(04:045) Damn! I have to warn the cap-tain and re-main-ing crew.
+(04:046) COMM LINK: Dead-eye, this is Maelstrom, over.
+(04:047) COMM LINK: Dead-eye, this is Ci-gar, over.
+(04:048) COMM LINK: Um, hel-lo? This is Dr. O'Connor. Can any-one hear me?
+(04:049) *hisss*
+(04:050) Comm link's dead I have a bad feel-ing things are go-ing to get worse.
+(04:051) I should try to con-tact the squad.
+(04:052) I should try the Comm Link again.
+(04:053) COMM LINK: Fire-star One this is Maelstrom, over.
+(04:054) COMM LINK: Fire-star One this is Ci-gar, over.
+(04:055) COMM LINK: Hel-lo? Can any-one hear me? This is Dr. O'Connor.
+(04:056) Comm link is dead
+(04:057) Still dead
+(04:058) Whoa!
+(04:059) Voice across shaft:|THE BRIDGE IS OFF-LINE! YOU NEED TO POW-ER IT UP WITH THAT COM-PU-TER ON YOUR LEFT!
+(04:060) Come on over!
+(04:061) Thanks! The sys-tems are go-ing hay-wire and the peo-ple too. I mean, some of the crew are turn turn I gggrl-rgl I don't feel so good
+(04:062) Argh!
+(04:063) DAHHH!
+(04:064) You start-led me! Oh great, anoth-er Ma-rine! So are you go-ing to help or just stand there? Ugh, don't bo-ther an-swer-ing.
+(04:065) What the
+(04:066) Oh sor-ry! You start-led me. Well, it's good that we have anoth-er sci-en-tist in our midst. Hope-ful-ly you can help us fig-ure out what's go-ing on around here.
+(04:067) Gaahh!
+(04:068) Door Mal-func-tion
+(04:069) Ty-cho Stor-age 2B Log:|Al-vin, did you sign for this ship-ment of chain-saws? Super-vi-sor Kim in Car-go is giv-ing me lip about it. They were sup-posed to go up to Kep-ler. What use are they here?|--S.A. Fel-lows
+(04:070) Ty-cho Stor-age 2B Log:|Wasn't me but you can AL-WAYS use a good chain-saw!|--Al-vin McPeak
+(04:071) Se-cure stor-age ter-mi-nal lock-ed down.
+(04:072) Do you want to try to hack this com-pu-ter?
+(04:073) Se-cure stor-age ac-cess grant-ed.
+(04:074) Se-cure stor-age ac-cess de-nied.
+(04:075) Se-cure Stor-age al-ready un-locked.
+(04:076) Sys-tem Err-or:|Pow-er Fail-ure. Re-store pow-er in sub-sta-tion to pro-ceed.
+(04:077) Dis-abled
+(04:078) Pow-er Sub-sta-tion
+(04:079) Sys-tem Prompt:|Pow-er Proc-es-sor Nom-i-nal
+(04:080) Sys-tem Prompt:|Run-ning Di-ag-nos-tics
+(04:081) Sys-tem Prompt:|Off-line
+(04:082) Sys-tem Err-or:|Core dump in pro-gress: code 41 72 6D 61 64 69 6C 6C 6F 
+(04:083) Sys-tem Prompt:|Sys-tem Re-set-ting. Two to go
+(04:084) Sys-tem Prompt:|Sys-tem Re-set-ting. One to go
+(04:085) Sys-tem Prompt:|Aux-il-ia-ry pow-er on-line. Base-line func-tions re-stored.
+(04:086) Sys-tem Prompt:|Re-set-ting. Re-set two more.
+(04:087) Sys-tem Prompt:|Re-set-ting. Re-set one more.
+(04:088) Sys-tem Prompt:|That com-pu-ter to your left al-ways lies.
+(04:089) Sys-tem Prompt:|That com-pu-ter to your right al-ways tells the truth.
+(04:090) Sys-tem Prompt:|Don't trust all com-pu-ters.
+(04:091) Vir-tual Tar-get Prac-tice: Would you like to play? Re-quires 2 UAC Cre-dits.
+(04:092) You do not have enough UAC Cre-dits.
+(04:093) Email:|To: D. Quinn|From: R. Antema|Mr. Quinn, is it real-ly nec-es-sary to take oth-er peo-ple's lun-ches out of the fridge? There's a ven-ding ma-chine down the hall, you know!|--Dr. Antema
+(04:094) Email:|To: R. Antema|From: D. Quinn|Dr. Ene-ma, I do NOT take oth-er peo-ple's lun-ches. I would-n't eat your food if it was the last mor-sel on the Moon. The stuff you eat is so foul it makes me gag just think-ing about it and the gas-es you ex-pel are ab-so-lute-ly pu-trid. Keep the stink in your own cu-bi-cle!|--Dave
+(04:095) Email:|To: D. Quinn|From: R. Antema|It's Antema, you mo-ron! And it's not me con-tam-i-na-ting the hall-ways you thief!|--Dr. Antema
+(04:096) Email:|To: All Employees|From: Caldex|What is all this talk about de-mons and pos-ses-sed souls? I want any-one who is aware of the source of these ru-mors to re-port to me im-me-di-ate-ly.|--Caldex
+(04:097) No More Mes-sages
+(04:098) Email:|To: P. Ham-er-shock|From: L. De-chant|Pat-ricia, I've been at the ter-mi-nals in the pow-er sub-sta-tion for hours; we're bare-ly run-ning at base-line. Some of the guys here are get-ting spo-oked. Do you have any news on what's go-ing on?|--Lee
+(04:099) Email:|To: L. De-chant|From: P. Ham-er-shock|We're as much in the dark as you are. The folks here are pret-ty ner-vous too. Some are spout-ing non-sense about pos-ses-sed souls. Just keep those se-cu-ri-ty bridges on-line; ap-par-ent-ly we've got Ma-rines on the way.|--Pat-ricia
+(04:100) Email:|To: P. Ham-er-shock|From: L. De-chant|Ma-rines? In-te-rest-ing did-n't think this was a com-bat si-tu-a-tion. Any-way, un-less the pow-er sta-bi-li-zes, we'll have to call off death-match to-night.|--Lee
+(04:101) Email:|To: C. Castle|From: M. Lake|Cal, what's go-ing on at the Kep-ler Site? My sub-or-di-nates are throw-ing around ru-mors like spit-wads.|--Max
+(04:102) Email:|To: C. Castle|From: M. Lake|Cal, did you get my earlier mes-sage? What's go-ing on there?|--Max
+(04:103) Email:|To: M. Lake|From: C. Castle|Max, we need help! There are weird crea-tures ap-pearing out of no-where and some peo-ple down here are turn-ing [rest of mes-sage trun-cated]
+(04:104) Email:|To: C. Castle|From: M. Lake|Cal, some peo-ple are head-ing out to Ci-chus base to help. Hang in there!|--Max
+(04:105) Email:|To: Staff|From: Dir. Amador|It has come to my at-ten-tion that un-au-tho-rized per-son-nel have been us-ing Super-vi-sor Lake's wash-room. This is a PRI-VATE wash-room. Any-one caught vio-lat-ing this will be ter-mi-nated im-me-di-ate-ly.|--Of-fice of the Di-rec-tor
+(04:106) Email:|To: Dir. Amador|From: Har-ry Larry|Why does Lake have his own pri-vate wash-room while the rest of us have to trudge all the way to the oth-er side of the sta-tion to take a leak? What are we sup-posed to do when the se-cu-ri-ty bridges are off-line, piss down a shaft?|--Har-ry
+(04:107) Email:|To: Staff|From: M. Lake|I have a hand-i-cap that makes it nec-es-sary that I have my own pri-vate fa-ci-li-ties. It is writ-ten in my em-ploy-ment con-tract. I sug-gest you plan ahead and stay away from my pri-vate wash-room.|--M. Lake
+(04:108) Email:|To: M. Lake|From: Har-ry Larry|Yeah, you're hand-i-cap-ped al-right. Plan ahead my ASS!|--Har-ry
+(04:109) Car-go Bay Doors
+(04:110) Ty-cho Sta-tion Maglev:|Trans-port to Ci-chus base ready for im-me-di-ate de-par-ture.
+(04:111) To Ci-chus Base
+(04:112) Dock-ing Ele-va-tor
+(04:113) No more email.
+(04:114) You made it! The oth-ers are head-ing to Kep-ler; the trou-ble seems to have start-ed up there. You should hur-ry if you want to join them. The rail sta-tion is past the car-go bays and Kep-ler is two stops along the Maglev rail.
+(04:115) Get to the Maglev sta-tion, it'll take you to Ci-chus base. From there con-tin-ue on to Kep-ler. I'll try to fol-low, but first I've got to try to sta-bi-lize this se-cu-ri-ty sys-tem.
+(04:116) Go!
+(04:117) Hav-ing fun?
+(04:118) Done yet?
+(04:119) (whist-ling)
+(04:120) Se-cu-ri-ty Sys-tem Sta-tus:|Ter-mi-nal Un-sta-ble; run-ning di-ag-nos-tics.
+(04:121) Se-cu-ri-ty Sys-tem Sta-tus:|Emer-gen-cy shut-down ini-ti-a-ted.
+(04:122) Se-cu-ri-ty Shaft Sta-tus:|Bridge Func-tion Re-stored
+(04:123) Bridge Rai-sing
+(04:124) Bridge Low-er-ing
+(04:125) Main-te-nance Ac-cess
+(04:126) Need Red Key-card
+(04:127) Need Blue Key-card
+(04:128) Find a Red Key-card to open Red Doors.
+(04:129) I think Caldex wants to talk to you.
+(04:130) Talk to Caldex; quit wast-ing our time!
+(04:131) Grrrr! Arggh!
+(04:132) [Key-board is smashed as if some-one was pound-ing on it]
+(04:133) You equip-ped your wea-pon.
+(04:134) Ac-cess De-nied:|West main-te-nance tun-nel hatch lock-ed from with-in.
+(04:135) Ap-proach Con-trol:|Scan-ning Sys-tem Tra-con Fre-quen-cies.
+(04:136) Ap-proach Con-trol:|No-body in-bound or out-bound. A slow day to-day.
+(04:137) Ter-mi-nal in Sleep Mode
+(04:138) ATM
+(04:139) Sys-tem Mal-func-tion
+(04:140) Out Of Or-der
+(04:141) Log 2144--03--03|Glad we were able to get these new sys-tems in-stalled, qui-et and smooth. The Rhoom-ba 5000 is awe-some. Eve-ry-thing checks out fine.|-- R. Za-cha-ry (tech 007)
+(04:142)  --Mixom Glae-ven-scope--||Ana-ly-zing |Ana-ly-zing |Re-sults: Vi-tal signs nor-mal.
+(04:143)  --Mixom Glae-ven-scope--||Ana-ly-zing |Ana-ly-zing |Re-sults: Ele-vat-ed heart rate and adre-na-line lev-els.
+(04:144)  --Mixom Glae-ven-scope--||Ana-ly-zing |Ana-ly-zing |Re-sults: Vi-tal signs crit-i-cal. Seek med-i-cal at-ten-tion im-me-di-ate-ly.
+(04:145)  --Mixom Glae-ven-scope--||Ana-ly-zing |Ana-ly-zing |Re-sults: Vi-tal signs ex-cep-tion-al. If you think you have a na-no--drink-ing prob-lem, please re-port to the Med-i-cal Di-rec-tor-ate.
+(04:146) Log 2144--03--10|009, can't be-lieve we didn't up-grade soon-er! These ma-chines are sweet! Eve-ry-thing checks out A okay.|-- R. Za-cha-ry (tech 007)
+(04:147) Log 2144--03--17|Some strange things are hap-pen-ing to all of the ma-chines. Can't fig-ure it out.|-- R. Za-cha-ry (tech 007)
+(04:148) PER-FOR-MANCE READ-ING|Sep-tic sys-tem at 88\% ef-fi-cien-cy.
+(04:149) Log 2144--03--24|The air, wa-ter, sep-tic, and life sup-ports seem to be func-tion-ing but we're get-ting odd da-ta re-ports. We've called in a spe-cial-ist. Tech 007 is miss-ing.|-- C. Sukut (tech 009)
+(04:150) Log 2144--01--16|Chris, please see what you can do about this unit. I can't touch the Echo Sier-ras un-til my new parts ship-ment ar-rives from Earth.|-- M. Burns (tech 116)
+(04:151) Log 2144--02--04|I can't ca-li-brate the flow me-ters un-til the Mixom tech gets down here and ser-vi-ces this tank.|-- R. Za-cha-ry (tech 007)
+(04:152) PER-FOR-MANCE READ-ING|Sep-tic sys-tem mal-func-tion.
+(04:153)  --Mixom Glae-ven-scope--|    **ERR-OR**|Sen-sors need clean-ing.|Please con-tact ser-vice per-son-nel.
+(04:154) Log 2143--12--22|This one's sched-uled for re-fur-bish-ment af-ter the first of the year. Hap-py Hol-i-days, eve-ry-one!|-- R. Za-cha-ry (tech 007)
+(04:155) PER-FOR-MANCE READ-ING|*Read--out Dam-aged*
+(04:156) PER-FOR-MANCE READ-ING|WARN-ING! Im-me-di-ate shut-down nec-es-sary!
+(04:157) Log 2144--01--21|User re-port-ed in-con-sis-tent be-hav-ior, but I can't re-pro-duce. Will keep an eye on it.|-- R. Za-cha-ry (tech 007)
+(04:158) Log 2144--02--27|Car-go per-son-nel are re-port-ing that their Man-i-fest Da-ta-base is hav-ing is-sues. I've placed a new pow-er sup-ply on or-der for this unit to see if it will fix the prob-lem.|-- R. Za-cha-ry (tech 007)
+(04:159) Note to Car-go Bay Per-son-nel:|Who-ev-er took one of the ship-ments of chain-saws, please re-turn it. They're ex-pec-ting it up at the Kep-ler ag-ri-cul-tur-al fa-cil-i-ty.|--Super-vi-sor Kim.
+(04:160) Ar-mor Re-pair Sta-tion
+(04:161) Go away.
+(04:162) Um, this com-pu-ter is tell-ing me to go away.
+(04:163) AH, THAT'S JUST SAL DON'T MIND HER. JUST KEEP AT IT.
+(04:164) Leave me alone.
+(04:165) Umm, I don't think this com-pu-ter's go-ing to co-ope-rate.
+(04:166) JUST KEEP AT HER; SHE'LL RE-LENT.
+(04:167) Fine! Here you go
+(04:168) Sen-try Bot can-not open doors.
+(04:169) No Bot Ac-cess
+(04:170) You al-ready have one
+(04:171) De-mon-ic Dan-druff
+(04:172) Lunar Tran-sit Pass
+(04:173) Bro-ken Wrench
+(04:174) Bloody Rab-bit's Foot
+(04:175) Neck-lace of Teeth
+(04:176) Hell-ish Idol
+(04:177) Tan-gle of Wires
+(04:178) Fried Cir-cuit Board
+(04:179) UAC ID: "Max Lake"
+(04:180) Pock-et Lint
+(04:181) Hu-man Fin-ger
+(04:182) Rub-ber Ducky
+(04:183) Ac-tion Fig-ure
+(04:184) Dead Bat-tery
+=== BANK 5 (count=154, expected=155) ===
+(05:000) 
+(05:001) Ci-chus
+(05:002) To Ty-cho Sta-tion
+(05:003) To Kep-ler Site
+(05:004) Cool-ant Tank
+(05:005) Look out! They're com-ing!
+(05:006) I'm go-ing to blow them in-to or-bit!
+(05:007) What no, wait!
+(05:008) DIE!!!
+(05:009) AHHHH!
+(05:010) You're lucky the breach door low-ered in time. I can't be-lieve Steve's gone he was a good man.
+(05:011) The main lob-by's pres-sure seal has been com-pro-mised. The on-ly way out now is through the main-te-nance duct. I'll open it if you want out, but I'm stay-ing.
+(05:012) Open the duct. I have to go.
+(05:013) I hate say-ing this, but please o-pen the duct.
+(05:014) I'm stay-ing.
+(05:015) Se-cu-ri-ty Alert:|Due to re-cent un-ex-plained oc-cur-ren-ces, ar-rivals must check in at the se-cu-ri-ty desk through the main lob-by.
+(05:016) Off Lim-its: De-pres-sur-ized Sec-tor
+(05:017) Lad-der Con-trol
+(05:018) No Bot Ac-cess
+(05:019) JIG IT!
+(05:020) YEAH!
+(05:021) Oh, hey man umm, did you need some-thing?
+(05:022) Oh, hey umm, did you need some-thing?
+(05:023) Were you just dan-cing?
+(05:024) Umm may-be? Well, I'm very busy so if you don't mind, I have work to do.
+(05:025) Why are you fol-low-ing me?
+(05:026) I was hop-ing you might be able to help me find the ca-fe-te-ria.
+(05:027) I need to get to the ca-fe-te-ria.
+(05:028) Oh, I wouldn't go out there if I were you. If you're real-ly hun-gry, find a ven-ding ma-chine. It's real-ly ug-ly out there. I'd stay put if I were you.
+(05:029) Not an op-tion.
+(05:030) *sigh* Un-for-tu-nate-ly, I don't be-lie-ve that is an op-tion.
+(05:031) Humm, okay but I sug-gest you take one of these bots. They'll come in han-dy. If you come up against a ma-chine like this, hack the sys-tem to get one of these ba-bies. They may save your hide. 
+(05:032) What are they for?
+(05:033) This one's a shoot-er bot. It'll do some snoop-ing, pick up some use-ful items and even shoot mon-sters. You can de-ploy it at will.
+(05:034) These may in-deed come in han-dy. Thanks!
+(05:035) Hey, did you ever hear about the moon walk dance? I saw it in some an-cient vi-deo and it was pret-ty slick. Check it out!
+(05:036) Uhhh okay hey, where're you go-ing?
+(05:037) Cir-cuit Board
+(05:038) Elec-tron-ic Box
+(05:039) Set of Fuses
+(05:040) Sev-er-ed Head
+(05:041) Sen-try Bot Sta-tus:|Al-ready De-ployed
+(05:042) Need Red Key-card
+(05:043) Lo-cate key-card in the ca-fe-te-ria food con-veyor.
+(05:044) You got the Ho-ly Wa-ter Pis-tol
+(05:045) Liv-ing Quar-ters Log:|We've holed up in here to try to hide from those what-ever they are. Beau-champ in Com-mu-ni-ca-tions in-ter-cept-ed some-thing from head-quar-ters about some "por-tals" pop-ping up wait BRB, Landau is here. HELP! LANDAU IS WITH THEM. HE HAS BEEN
+(05:046) No more Logs
+(05:047) Ci-vil-ian 1: What the Hell are you do-ing?! Steal-ing cre-dits while the world is crumb-ling around us?! 
+(05:048) Ci-vil-ian 2: If the world is end-ing, what do you care?
+(05:049) Ci-vil-ian 1: Wait! Stop! PUT THAT WEA-PON AWAY! I HAVE THE DROP ON YOU!
+(05:050) Mood Light-ing Con-trol Panel:|Cy-cle through the op-tions ac-cor-ding to your mood!
+(05:051) Stan-dard Light-ing
+(05:052) Ro-man-tic Light-ing
+(05:053) Spooky Light-ing
+(05:054) I Can't See A Thing
+(05:055) Mood Light-ing Re-set
+(05:056) Ter-mi-nal:|I AM VIOS.
+(05:057) Ter-mi-nal:|A sen-try bot. How quaint. Put it away.
+(05:058) Err okay.
+(05:059) VIOS: Amu-sing. 
+(05:060) I real-ly don't have time for some UAC hack's Tur-ing Test.
+(05:061) Great, ano-ther bad--man-ner-ed AI.
+(05:062) VIOS: You'd be wise to watch your tongue with me else I may take it and feed it to my pets.
+(05:063) What the?!
+(05:064) HA-HA-HA!
+(05:065) That was fun! Now, to busi-ness. I would like you to al-lo-cate some re-sources to me.
+(05:066) SAL: ^7Don't do it!
+(05:067) SAL: ^7Delete the re-sources!
+(05:068) SAL: ^7De-prive VIOS. Your soul de-^7pends on it!
+(05:069) VIOS: ^1You pathetic fog of ones ^1and zeroes! 
+(05:070) Choose Malloc. It is the right choice.
+(05:071) Good. This is a much less mess-y route. Ha-ha-ha!
+(05:072) You de-sire punish-ment. So be it.
+(05:073) I wish I could fin-ish this flesh-ling, but I must be else-where. We will meet again.
+(05:074) Yes, this was quite amu-sing. Per-haps next time we will have more time.
+(05:075) What on Earth was that?! I hope I find SAL again
+(05:076) Ter-mi-nal un-re-spon-sive.
+(05:077) Door Mal-func-tion
+(05:078) Sen-try Bot can-not open doors.
+(05:079) Vir-tual Tar-get Prac-tice: Would you like to play? Re-quires 2 UAC Cre-dits.
+(05:080) You again?
+(05:081) Well what do you know, it's the com-pu-ter with at-ti-tude.
+(05:082) Fas-cin-a-ting
+(05:083) *sigh* I'm SAL, UAC's cen-tral main-frame.
+(05:084) SAL? What kind of name is SAL?
+(05:085) It's a good ac-ro-nym. Nice to meet you, SAL.
+(05:086) You're a very rude hu-man.
+(05:087) Sor-ry. Hey, SAL, since you're the main-frame, you must have ac-cess to eve-ry-thing hap-pen-ing around here. Can you tell me what's go-ing on?
+(05:088) If I give you some in-for-ma-tion, pro-mise to re-move your-self from this fa-cil-i-ty.
+(05:089) Thank you for the offer, SAL. That is gen-er-ous of you.
+(05:090) That's what I'm try-ing to do!
+(05:091) Some hu-mans have un-leashed a strange en-ti-ty that I can-not com-pre-hend. This en-ti-ty has quite a bit of con-trol over the ma-te-ri-al and cy-ber worlds. It is very dan-ger-ous and it has made it un-safe here.
+(05:092) Now you must leave. I've un-locked the door up ahead. Use cau-tion -- I sense this en-ti-ty is afoot. Move along now.
+(05:093) Are you still here? I said, move along.
+(05:094) Ter-mi-nal Non--re-spon-sive
+(05:095) COMM LINK: *crack-le* Maelstrom, this is Ci-gar, over.
+(05:096) COMM LINK: *crack-le* Ci-gar, this is Maelstrom, over.
+(05:097) COMM LINK: *crack-le* Dr. O'Connor, this is Maelstrom, over.
+(05:098) COMM LINK: Fi-nal-ly, a sig-nal! This is Maelstrom. Good to hear your voice. I just ar-rived at Ci-chus.
+(05:099) COMM LINK: Maelstrom, this is Ci-gar. The comm link's been giv-ing me trou-ble but I'm glad to have you back on-line. Just ar-rived at Ci-chus.
+(05:100) COMM LINK: Uh uh hel-lo? Is that you, Major? Where are you?!
+(05:101) COMM LINK: Major, I've got the Dr. and a civie with me. We've made it up to Kep-ler but I sure could use your help. I stashed a key-card for you in the ca-fe-te-ria in Ci-chus. Use the food tray con-veyor a few times and it'll come around. *crack-le*
+(05:102) COMM LINK: I've got the Dr. and a civie with me. We've made it up to Kep-ler but I could use your help. I stashed a key-card for you in the ca-fe-te-ria in Ci-chus. Use the food tray con-veyor a few times and it'll come around. *crack-le*
+(05:103) COMM LINK: We're at Kep-ler. Try to make your way here as soon as you can. We stashed a key-card in the ca-fe-te-ria for you at Ci-chus -- you'll need it to get out. The key-card is in the food tray con-veyor. Try it a few times and it'll come around. *crack-le*
+(05:104) COMM LINK: Sarge! *crack-le* Gah!
+(05:105) COMM LINK: Major? Major! *crack-le* Gah! Stu-pid an-cient tech-nol-ogy!
+(05:106) COMM LINK: Major! *crack-le* Gah!
+(05:107) Lad-der Con-trol Mal-func-tion
+(05:108) PER-FOR-MANCE READ-ING|Cool-ant sys-tem pres-sure Lev-els Crit-i-cal!
+(05:109) Cool-ant Con-trol
+(05:110) Pri-ma-ry cool-ant tank pres-sur-i-zing|WARN-ING: Cool-ant ves-sel pres-sure al-ready at crit-i-cal lev-els.
+(05:111) This tank can-not re-lieve over--pres-sure event if ad-di-tion-al pres-sure is add-ed. To over-ride, use ter-mi-nal in the mon-i-tor-ing sta-tion on this lev-el.
+(05:112) Se-cond-ary cool-ant tank pres-sur-i-zing|WARN-ING: Cool-ant ves-sel pres-sure al-ready at crit-i-cal lev-els. Over--pres-sure event will not be mi-ti-gated.
+(05:113) Emer-gen-cy over-ride:|Pres-sur-i-za-tion sys-tem will now al-low more than one tank at a time. USE EX-TREME CAU-TION: Over--pres-sure may oc-cur if de-sign to-le-rances are ex-cee-ded. 
+(05:114) Cool-ant Sys-tem Sta-tus:|OVER--PRES-SUR-I-ZA-TION EVENT -- Cool-ant sys-tem re-routed. Pow-er lev-els at 50\% 
+(05:115) Cool-ant Ter-mi-nal
+(05:116) Con-trol Mal-func-tion
+(05:117) Log 2144--02--12|We're see-ing in-ter-mit-tent heavy loads on the pow-er grid, but I haven't been able to track the source yet.|-- J. Klein (tech 114)
+(05:118) Log 2144--01--16|I'm start-ing to see some pres-sure anom-a-lies in the cool-ant tanks. This may be caused by the re-cent pow-er spikes. Keep-ing an eye on them. |-- J. Klein (tech 114)
+(05:119)  --Mixom Glae-ven-scope--||Ana-ly-zing |Ana-ly-zing |Re-sults: Vi-tal signs nor-mal.
+(05:120)  --Mixom Glae-ven-scope--||Ana-ly-zing |Ana-ly-zing |Re-sults: Ele-vat-ed heart rate and adre-na-line lev-els.
+(05:121)  --Mixom Glae-ven-scope--||Ana-ly-zing |Ana-ly-zing |Re-sults: Vi-tal signs crit-i-cal. Seek med-i-cal at-ten-tion im-me-di-ate-ly.
+(05:122)  --Mixom Glae-ven-scope--||Ana-ly-zing |Ana-ly-zing |Re-sults: Vi-tal signs ex-cep-tion-al. If you think you have a na-no--drink-ing prob-lem, please re-port to the Med-i-cal Di-rec-tor-ate.
+(05:123) Log 2144--03--02|Month-ly ser-vice com-plete. Pow-er reg-u-la-tion sys-tems nom-i-nal. Next ser-vice sched-uled for 2144-04-02.|-- J. Klein (tech 114)
+(05:124) Ter-mi-nal Mal-func-tion
+(05:125) Ooh not good.
+(05:126) Umm okay
+(05:127) Tap Screen to Use
+(05:128) Tread-mill: Would you like to use? Re-quires 2 UAC Cre-dits.
+(05:129) Be-gin Work-out
+(05:130) You do not have enough UAC Cre-dits.
+(05:131) Ac-cess to Maglev sta-tion has been lock-ed down through a near-by com-pu-ter ter-mi-nal.
+(05:132) Mar-bles
+(05:133) Gum Wrap-pers
+(05:134) Bot-tle Open-er
+(05:135) Nuts and Bolts
+(05:136) Lin-ger-ie Cat-a-log
+(05:137) Birth-day Card
+(05:138) Mints
+(05:139) Work Gloves
+(05:140) Scalps
+(05:141) De-mon-ic Charms
+(05:142) An-cient Stone Idol
+(05:143) Dried Eye-balls
+(05:144) Toes--on--a--Stick
+(05:145) Can of 3--in--1 Oil
+(05:146) Crude Claw Shar-pen-er
+(05:147) Bloody Shoe
+(05:148) Eerily Life-like Ba-by Doll
+(05:149) Pock-et Lint
+(05:150) Hu-man Ear
+(05:151) Pu-trid En-trails
+(05:152) Ac-tion Fig-ure
+(05:153) Fried Cir-cui-try
+=== BANK 6 (count=135, expected=136) ===
+(06:000) 
+(06:001) Kep-ler
+(06:002) To Ci-chus Base
+(06:003) Un-locked Blue Door
+(06:004) Fer-ti-li-zer Tank
+(06:005) Email:|To: C. Castle|From: M. Lake|I doubt you'll get this, Cal, but the Ma-rine trans-port is about 2 hours out. Hang in there. Help is on the way.|--Max
+(06:006) Email:|To: T. Sabnani|From: R. Nguyen|Hey, man. Do you know what this Zanax guy is about? He just takes my work-ers and doesn't say when I'll get them back.|--Rick
+(06:007) Email:|To: R. Nguyen|From: T. Sabnani|No, dude. The guy's like a zom-bie -- like he's pos-ses-sed or some-thing. I asked the boss-man about him once and just got a cold stare.|--Tom
+(06:008) Email:|To: T. Sabnani|From: R. Nguyen|Oh, man get this. I just talked to Lee down at Ty-cho and she said the guy's not even on the man-i-fests. They don't even know how or when he comes and goes!|--Rick
+(06:009) No more email.
+(06:010) Thank god, you're hu-man! Are you part of the res-cue team?
+(06:011) We hadn't been aware a res-cue was need-ed so no. But it seems we're in need of one. I'm try-ing to fig-ure out what's go-ing on.
+(06:012) I don't know much. Peo-ple have been get-ting real-ly se-cret-ive. I do know that some folks came through here a lit-tle earlier and head-ed to the oth-er side of this fa-cil-i-ty. Is that where you're head-ed?
+(06:013) Yes, if that's where they went.
+(06:014) Well, you'll need a se-cu-ri-ty key-card to get over to that side. I gave mine to Caldex just a lit-tle bit ago but he might still be around. May-be you can find him.
+(06:015) Caldex? Great! I'll go look for him.
+(06:016) He was near wait what was that?
+(06:017) Oh hi there lit-tle guy. You're not so scary
+(06:018) AAHHHhhhh
+(06:019) WARN-ING:|Jump-ing down an ele-va-tor shaft is prob-a-bly not the wis-est course of ac-tion.
+(06:020) Ele-va-tor Mal-func-tion
+(06:021) Ele-va-tor Shaft
+(06:022) Need Red Key-card
+(06:023) Need Blue Key-card
+(06:024) Find a Red Key-card to open the Red Door.
+(06:025) Find the Blue Key-card.
+(06:026) Find the switch that opens the se-cret lab.
+(06:027) Find Caldex. He may have a key-card you need.
+(06:028) Log 2144--01--12:|Spe-ci-mens cap-tu-red fol-low-ing the ini-ti-al pri-ma-ry por-tal grid pow-er-up. Suc-cess-ful-ly sus-pend-ed in sta-sis for fur-ther stu-dy.|-- X. Zanax
+(06:029) Log 2144--01--13:|Have just re-ceived con-fir-ma-tion from Dr. Gue-rard on Mars that he is en-coun-ter-ing si-mi-lar fau-na in his lat-est re-search.|-- X. Zanax
+(06:030) Log 2144--02--07:|We are clas-si-fying this spe-ci-men as an "imp," though my as-sis-tant has tak-en to on-o-mat-o-po-et-i-cal-ly call-ing it "Gwocklego" af-ter its cu-ri-ous vo-cal-iza-tions.|-- X. Zanax
+(06:031) Log 2144--02--08:|This imp seems par-tic-u-lar-ly re-sis-tant to sta-sis sus-pen-sion. It ap-pears sta-ble for now, but ex-er-cise ex-treme cau-tion when han-dling.|-- X. Zanax
+(06:032) Log 2144--02--05:|The crea-tures are high-ly re-sis-tant to pain and in-jury, which has made spe-ci-men acq-ui-si-tion trou-ble-some. It's been dif-fi-cult to sub-due a crea-ture with-out mor-tal-ly wound-ing it.|-- X. Zanax
+(06:033) Log 2144--02--06:|Ad-di-ti-on-al-ly, in-it-ial field re-ports in-di-cate the crea-tures ex-hi-bit var-y-ing tol-er-ance for dif-fer-ent types of weap-on at-tacks. Ex-per-i-men-ta-tion will help us de-ter-mine the most ef-fi-cient means of sub-du-ing these crea-tures.|-- X. Zanax
+(06:034) No more logs.
+(06:035) GAAAH!
+(06:036) Sneaky!
+(06:037) Cir-cuit Board
+(06:038) Elec-tron-ic Box
+(06:039) Set of Fuses
+(06:040) Un-rec-og-niz-able Parts
+(06:041) (Be-hind the Door) STOP! Don't send that bot through the por-tal, you idi-ot! We won't be able to sta-bi-lize it! STOP! LOOK OUT!
+(06:042) Now you've done it!
+(06:043) We have no con-trol over that por-tal now!
+(06:044) Now what?
+(06:045) AAAHH-HHH!
+(06:046) What in Hades?
+(06:047) POI-SONED|Each turn with-in the pes-ti-cide de-creas-es 10 ac-cu-ra-cy (max --30) and 10 health points. Ef-fects last 30 turns.
+(06:048) *cough* Don't go in there! *cough* A pes-ti-cide tank blew. The whole place is gas-sed and very nox-ious. It's no place for hu-mans ro-bots may-be, but not hu-mans. Now if you'll ex-cuse me, I've had quite enough of this.
+(06:049) PER-FOR-MANCE READ-ING|Fer-ti-li-zer de-liv-ery sys-tem op-er-at-ing nom-i-nal-ly. How-ev-er, pes-ti-cide sys-tem seems to have mal-func-tion-ed. Call main-te-nance.
+(06:050) Ohkay
+(06:051) Atrium 02 Log|2144--01--08:|Please do not tend to any-thing in this atrium un-til we have a bet-ter sense of what killed eve-ry-thing here. If you have any in-for-ma-tion to con-tri-bute to the in-ves-ti-ga-tion, please email me di-rect-ly.|-- Dir. Castle
+(06:052) Sen-ding bots through por-tals is a no--no.
+(06:053) Sen-try Bot can-not open doors.
+(06:054) Sen-try Bot Sta-tus:|Al-ready De-ployed
+(06:055) No Bot Ac-cess
+(06:056) Tap Screen to Use
+(06:057) Tread-mill: Would you like to use? Re-quires 2 UAC Cre-dits.
+(06:058) Be-gin Work-out
+(06:059) You do not have enough UAC Cre-dits.
+(06:060) Green-house Log|2144--02--26:|In spite of hav-ing to work around Dr. Zanax's well, what-ever he's up to, we've man-aged some real break-throughs. The adap-ted hydro-ponics with the new ap-proach to pro-ces-sing the lunar re-golith is ex-tre-me-ly pro-mis-ing.
+(06:061) Green-house Log|2144--03--09:|I want to go on re-cord with a com-plaint about Dr. Zanax. His con-stant re-di-rec-tion of pow-er, per-son-nel, and oth-er re-sources has se-ri-ous-ly hind-er-ed our abi-li-ty to work.|--Dr. Spen-cer.
+(06:062) Caldex?!
+(06:063) Oh, hi. I know you, don't I? *sniff * *cough* 
+(06:064) Oh, hel-lo Major! *sniff* *cough*
+(06:065) Oh, hel-lo Sarge!
+(06:066) Oh, hel-lo Dr. O'Reilly
+(06:067) What are you do-ing run-ning on the tread-mill at a time like this?
+(06:068) Oh come on, tell me you haven't done the same to work on your butt er, I mean agi-li-ty *cough*
+(06:069) What's go-ing on? Where are the oth-ers?
+(06:070) They moved on to the oth-er side of the fa-cil-i-ty fol-low-ing a lead about some por-tal tech-nol-ogy. *sniff* Why there's por-tal tech in an argicult agritur plant fa-cil-i-ty es-capes me, and I've been on the Doom for more than a year. I mean Moon.
+(06:071) I need to catch up to them, but I can't with-out a key-card.
+(06:072) Ahh, the Red Key-card. Yes, I've got it. I'll give it to you for 50 UAC cre-dits.
+(06:073) Just kid-ding! Here you go.
+(06:074) I'm go-ing to stay around this pop-corn stand a while un-til I feel a bit bet-ter. I think I got too much pes-ti-cide in my sys-tem.
+(06:075) Okay. Thanks Caldex. Take care of your-self.
+(06:076) You too. I'll see you next week, Mary. *cough*
+(06:077) Move along. I'll stay and guard the cho-co-late.
+(06:078) Caldex: *huff* *puff* Man, I'm exhausted
+(06:079) So tired
+(06:080) need a nap.
+(06:081) Zzzz
+(06:082) Caldex?  Wake up!
+(06:083) Zzzz no, more to the left zzz yeah, right there *snort*
+(06:084) Why are you sleep-ing in here?
+(06:085) *wheeze* I got a big lung-ful of pest-i-cide when the tank blew. I figured I'd *hack* come over to the hyd-ro-pon uh, hyd-ro-cort uh, the little plant grow-ing lab to chill out for a whi-le. *cough* I feel kind-a woo-zy.
+(06:086) Sorry to hear that.
+(06:087) So am I. *gasp* This is tot-ally put-ting me behind on my jog-ging. *cough*
+(06:088) Vir-tual Tar-get Prac-tice: Would you like to play? Re-qui-res 2 UAC Cre-dits.
+(06:089) Caldex
+(06:090) Well Ma-rine, you seem to be do-ing well but don't get over con-fi-dent. VIOS has its sights on you. Be care-ful.
+(06:091) Dr. O'Connor, for a sci-en-tist you have fared much bet-ter than I would have guess-ed. Nev-er-the-less, you could use some help. Near the pes-ti-cide con-tam-i-na-tion there's an al-cove with two Sen-try Bot ter-mi-nals. Be-hind the Sen-try Bot on the right is a se-cret room with sup-plies. Good luck.
+(06:092) I think I'm start-ing to grow on you SAL.
+(06:093) Thank you, SAL.
+(06:094) Thank you, SAL, but I did find that on my own. Do you have any oth-er in-for-ma-tion?
+(06:095) Some hu-mans are toy-ing with dan-ger. The forces that have been un-leashed can-not be eas-i-ly stop-ped and this evil has leapt in-to the vir-tual world. This must be stop-ped.
+(06:096) We'll do what needs to be done.
+(06:097) This must be stop-ped how?
+(06:098) Do what-ever you can. There is great per-il.
+(06:099) Major, watch your step! A cou-ple of work-ers al-ready fell to their deaths. The Doc-tor and I were look-ing in-to some-thing about por-tals when this whole area start-ed com-ing down. We'll con-tin-ue our search. You'll need to find anoth-er way through.
+(06:100) Ser-geant, watch your step! A cou-ple of work-ers al-ready fell to their deaths. The Doc-tor and I were look-ing in-to some-thing about por-tals when this whole area start-ed com-ing down. We'll con-tin-ue our search. You'll need to find anoth-er way through.
+(06:101) Dr. O'Connor, watch your step! A cou-ple of work-ers al-ready fell to their deaths. Sarge and I were look-ing in-to some-thing about por-tals when this whole area start-ed com-ing down. We'll con-tin-ue our search. You'll need to find anoth-er way through.
+(06:102) There's a se-cret lab near-by but I on-ly got the en-try code. I should be able to re-veal the switch re-motely from here. There, that ought to do it. It should be pret-ty easy to find the switch now.
+(06:103) You're go-ing to need the blue key-card for the switch. One of the sci-en-tists had it, but we're not sure what hap-pened to him. The key-card could be any-where. I'd look through dead bod-ies, just in case. Good luck. We'll see you on the oth-er side.
+(06:104) Here goes noth-ing!
+(06:105) I won-der how that beast got a hold of the key-card un-less I'm creep-ing my-self out. Bet-ter high tail it out of here!
+(06:106) GRRR!
+(06:107) RE-MIND-ER|You can save your game at any time. Press "Menu" to open the menu and se-lect "Save Game".
+(06:108) Anoth-er por-tal!
+(06:109) Sto-rage Log|2144--02--07:|This is the third re-pair work or-der I've put in. The el-eva-tor real-ly needs to be fixed! It is dan-ger-ous!
+(06:110) Chi-nese Fin-ger Pri-son
+(06:111) Bot-tle Caps
+(06:112) Cork-screw
+(06:113) Ex-pired Rail Pass
+(06:114) Ro-mance No-vel
+(06:115) Soil-ed Hand-ker-chief
+(06:116) Rat Pelts
+(06:117) Dried Flow-ers
+(06:118) Vial of Some-thing Green
+(06:119) Brim-stone
+(06:120) Shar-pened Fe-mur
+(06:121) Dried Spleens
+(06:122) No-ses--on--a--Stick
+(06:123) Can of 3--in--1 Oil
+(06:124) Horn Pol-isher
+(06:125) Bloody Glove
+(06:126) Charred Fam-i-ly Por-trait
+(06:127) 437 Pinky Em-bry-os
+(06:128) Be-ret & Mime Make-up
+(06:129) Ger-man Hatch-back Car
+(06:130) Green Goo
+(06:131) Bag of Bone Frag-ments
+(06:132) Hu-man Ashes
+(06:133) Bot-tle Open-er
+(06:134) De-mon Pa-ra-sites
+=== BANK 7 (count=157, expected=158) ===
+(07:000) 
+(07:001) UAC Ad-min
+(07:002) Hey, how did you get in here?!
+(07:003) I'm not ex-act-ly sure where am I?
+(07:004) This is UAC's East Coast re-search fa-cil-i-ty.
+(07:005) East Coast? The Moon doesn't have an East Coast!
+(07:006) Moon? What are you talk-ing about? You're on Earth! You bump your head or some-thing?
+(07:007) I'm on Earth?
+(07:008) You're spook-ing me. I don't know what you're up to but I want no part of it.
+(07:009) For-get it. Just tell me how to get out of here.
+(07:010) Get out? The fa-cil-i-ty is un-der lock-down. You're stuck un-til it's over.
+(07:011) You mean there's ab-so-lute-ly no way to get out of here?!
+(07:012) Well, if you got ac-cess to the labs and hacked in-to the ad-min-is-tra-tor's com-pu-ter, may-be you could get out but I would-n't go there if I were you. Lots of weird things go-ing on and I'm not so sure it's safe up there.
+(07:013) I'll try my luck.
+(07:014) You'll need a blue se-cu-ri-ty card to get in-to the ad-min-is-tra-tor's of-fice. I think there's one in the of-fice up the ramp from the square cor-ridor if you're cra-zy enough to go get it. Well, I've got to get back to work so ex-cuse me.
+(07:015) I'm busy. Got work to do.
+(07:016) Where did you come from?
+(07:017) Nev-er-mind how do I get out of here?
+(07:018) Umm, we're un-der lock-down
+(07:019) Yeah, I got that part. Which way to the labs?
+(07:020) Umm, out the door?!
+(07:021) Leave me alone you're strange.
+(07:022) Great, just need to make my way to the ad-min-is-tra-tor's of-fice.
+(07:023) WORK-ER: EAT LEAD YOU MON-STER!
+(07:024) WORK-ER: Ugh, how do I dis-en-gage the safe-ty?
+(07:025) WORK-ER: AHH!!!
+(07:026) RE-MIND-ER|Save your game at any time. Press "Menu" to open the menu and se-lect "Save Game".
+(07:027) Email:|To: E. Bax-ter|From: K. Pomme|Erik, any word on when the guys down in R&D are go-ing to be fin-ished with the next pro-to-type? I have up-per man-age-ment breath-ing down my neck here and I don't have any-thing to do un-til the pro-to-type is ready. The share hold-ers meet-ing is less than a month away and they want some-thing con-crete to show in-ves-tors.|--Kim
+(07:028) Email:|To: K. Pomme|From: E. Bax-ter|Kim, the pro-to-type is still a few weeks out. If you're real-ly look-ing for some-thing to do you could go vo-lun-teer as a test subject|--Erik
+(07:029) Email:|To: E. Nieslen|From: K. Pomme|Very fun-ny Erik. I know what goes on down in those labs and there's no way I'm go-ing to set one foot down there. Just tell the guys to hur-ry up and fin-ish the pro-to-type.|--Kim
+(07:030) UAC Coded Ad-vi-so-ry:|The ad-min-is-tra-tion lev-el and oth-er sub-lev-els are un-der lock-down un-til the cur-rent si-tu-a-tion is re-sol-ved. All per-son-nel should re-main calm and con-tin-ue work as di-rect-ed.
+(07:031) Email:|To: Ad-min Al-bert-son|From: I. Kelliher|Ad-min-is-tra-tor Al-bert-son, our re-search-ers on Mars in-form me that they are wait-ing on the re-sults of sev-er-al ex-per-i-ments as-signed to your fa-cil-i-ty. Please let me know where these ex-per-i-ments stand.|--CEO Ian Kelliher
+(07:032) Email:|To: I. Kelliher|From: Ad-min Al-bert-son|Mr. Chair-man, our sci-en-tists are work-ing full sched-ules but we are un-a-ble to keep up with the amount of work that has been as-signed to our fa-cil-i-ty. If we try to in-crease our yield we will be op-er-at-ing out-side safe pa-ra-me-ters.|--Ad-min-is-tra-tor Al-bert-son
+(07:033) Email:|To: Ad-min Al-bert-son|From: I. Kelliher|Ad-min-is-tra-tor Al-bert-son, your job is to in-sure that the com-pany sees re-sults. If you are un-a-ble to pre-sent those re-sults you may need to re-think the way you oper-ate your fa-cil-i-ty, or I may need to re-think who is in charge.|--CEO Ian Kelliher
+(07:034) Email:|To: G. Mumbi|From: E. Water-son|Gandhi, what is up with these print-ers? I can't get a sin-gle one to work pro-per-ly. Can we get some-one to fix these.|--E. Water-son
+(07:035) Email:|To: E. Water-son|From: G. Mumbi|Mr. Water-son, I am sor-ry you are hav-ing trou-ble with our print-ers to-day. Could you please send me your cust-o-mer ser-vice num-ber? Once I get that in-for-ma-tion I will be in a bet-ter po-si-tion to help you.|--G. Mumbi
+(07:036) Email:|To: G. Mumbi|From: E. Water-son|Gandhi, what cust-o-mer ser-vice num-ber are you talk-ing about? I did-n't buy these damn things, I have no idea who did, and I have no idea where that num-ber could be. Just send some-one to fix the print-er!|--E. Water-son
+(07:037) *Print-er Queue*|Lisa -- Gra-phic Doc|Lisa -- Test Doc|John -- Gra-phic Doc|Lisa -- Gra-phic Doc|Erik -- Blank Page
+(07:038) Email:|To: J. Alard|From: W. Gate|James, I real-ly need the pro-duct sum-ma-ries for the meet-ing to-mor-row, any idea when you'll have them ready?|--Bill
+(07:039) Email:|To: W. Gate|From: J. Alard|Bill, I'll have them on your desk first thing in the morn-ing, sor-ry about the de-lay. A lot of my staff has been sick so its been a lit-tle hard to get eve-ry-thing done.|--James
+(07:040) Email:|To: J. Alard|From: W. Gate|James, Thank you. Hope-ful-ly your team will start feel-ing bet-ter soon enough.|--Bill
+(07:041) Email:|To: E. Wido|From: A. Feng|El-len, have you heard from the di-rec-tor? We've been in de-ve-lop-ment for a few months now and we're wait-ing on pro-duct feed-back be-fore we move in-to the next phase of de-ve-lop-ment.|--An-drew
+(07:042) Email:|To: A. Feng|From: E. Wido|An-drew, I haven't seen the di-rec-tor in quite some time. He's been out of the of-fice for a while now. He's caught some-thing nas-ty, must've picked it up while he was in Ve-gas a few months ago. You know how cra-zy it can be over there.|--El-len
+(07:043) Email:|To: E. Wido|From: A. Feng|El-len, I do know how cra-zy it can get. If you do see the di-rec-tor can you send him my way? I've got a ton of ques-tions I'd like to ask.|--An-drew
+(07:044) Need Blue Key-card
+(07:045) Find the blue se-cu-ri-ty card need-ed to get in-to the ad-min-is-tra-tor's of-fice.
+(07:046) Make your way to the ad-min-is-tra-tor's of-fice and and look for a way to by-pass the lock-down.
+(07:047) AACK!!
+(07:048) Ar-rived
+(07:049) Ex-press ele-va-tor to ad-min. Would you like to go up?
+(07:050) Would you like to go down?
+(07:051) To UAC Labs
+(07:052) Richard
+(07:053) DOOR LOCK-ED
+(07:054) AC-CESS RE-STRICT-ED BY AD-MIN-IS-TRA-TOR
+(07:055) Great, key-card and sleep-ing mon-sters!
+(07:056) If I can get there with-out wak-ing
+(07:057) * SNAP *
+(07:058) these crea-tures.
+(07:059) TER-MI-NAL MAL-FUNC-TION-ING
+(07:060) Ex-cuse me, how do I get to the labs?
+(07:061) Labs? Why would you want to go there?
+(07:062) You haven't no-ticed any-thing strange hap-pen-ing around here?
+(07:063) Strange? How so?
+(07:064) Strange as in mon-sters and un-dead roam-ing the hall-ways?
+(07:065) Have you been drink-ing?! That's some cra-zy stuff you've got in your head!
+(07:066) There real-ly are mon-sters roam-ing the halls! Its not safe!
+(07:067) Rrright! I umm need to get back to work. See you around!
+(07:068) Like I said, mon-sters
+(07:069) AHH!!!
+(07:070) Co-lor-Ma-gic 2300 XL: Out of pa-per! Find some and put it in.
+(07:071) Co-lor-Ma-gic 2300 XL: Pa-per jam! Pull out the pa-per or con-tact IT per-son-nel.
+(07:072) Co-lor-Ma-gic 2300 XL: Huuunn-rrraaa!
+(07:073) Co-lor-Ma-gic 2300 XL: Print-er off-line. Con-tact IT de-part-ment for as-sis-tance.
+(07:074) Co-lor-Ma-gic 2300 XL: Print-er on-line
+(07:075) Wow, that's a first.
+(07:076) I spoke too soon
+(07:077) What the
+(07:078) No more email.
+(07:079) Thanks for get-ting me out! Feels like I've been trapped in that ele-va-tor for-ever.
+(07:080) How did you get stuck?
+(07:081) I was on my way to see the ad-min-is-tra-tor when the fa-cil-i-ty went in-to lock-down and the ele-va-tors stop-ped func-tion-ing. It's a good thing I emp-tied my blad-der just be-fore head-ing out!
+(07:082) Well, be glad you were stuck. It was prob-a-bly the saf-est place to be.
+(07:083) What do you mean?
+(07:084) The fa-cil-i-ty is over-run by mon-sters and un-dead.
+(07:085) Okay! Nice talk-ing to you. I got-ta go now.
+(07:086) WORK-ER: What a nut job
+(07:087) Why won't peo-ple be-lieve me?!
+(07:088) Humm, there's some-thing on the floor
+(07:089) A sni-per scope. This will sure come in han-dy!
+(07:090) Door Un-locked
+(07:091) Sen-try Bot can-not open doors.
+(07:092) Sen-try Bot can-not use ele-va-tors.
+(07:093) Let us con-tin-ue where we left off.
+(07:094) Where are you?!
+(07:095) VIOS: ^1Here
+(07:096) VIOS: ^1And here
+(07:097) In this place I can be any-where and eve-ry-where. I am pow-er and I can share my pow-er with those who aide me.
+(07:098) Give me what I want. Choose Malloc!
+(07:099) Wise choice.
+(07:100) You dis-ap-point me. Ah well, at least I will en-joy drain-ing you slow-ly.
+(07:101) HA-HA-HA! You have a bite! I seem to get called away when-ever we are hav-ing fun. Till next time.
+(07:102) Lab doors un-locked
+(07:103) What in the world
+(07:104) Scope
+(07:105) Man, that was rough. 
+(07:106) Where am I?
+(07:107) I should prob-a-bly radio the oth-ers.
+(07:108) Comm Link: Doc-tor, Ci-gar, re-port in!
+(07:109) I must be out of range. I bet-ter scout around and fig-ure out where I am.
+(07:110) Comm Link: Maelstrom, do you copy?
+(07:111) Damn. These in-fer-nal things nev-er work.
+(07:112) Comm Link: Major? 
+(07:113) Comm Link:Sarge?
+(07:114) Comm Link:Is there any-one on this thing?
+(07:115) Looks like I'll have to do this alone.
+(07:116) Comm Link:*hiss*
+(07:117) Hey!
+(07:118) Come on SAL, please be there
+(07:119) You again and I see you used the por-tal.
+(07:120) SAL, what is go-ing on here? How did I get from the Moon to the Earth?
+(07:121) I don't have time to an-swer stu-pid ques-tions. What you need to know is that VIOS is here and he's get-ting more pow-er-ful.
+(07:122) What is he? What does he want?
+(07:123) He's dif-fer-ent. He seems to be look-ing for some-thing. Try to stay alive. I may need you.
+(07:124) Gee, thanks for car-ing.
+(07:125) Con-nec-tion to SAL ter-mi-nated
+(07:126) I have a bad feel-ing about this
+(07:127) I need in-for-ma-tion
+(07:128) Come for-ward mor-tal.
+(07:129) Pock-et Bi-ble
+(07:130) Hu-man Fin-ger
+(07:131) Rub-ber Ducky
+(07:132) Ac-tion Fig-ure
+(07:133) Dead Bat-tery
+(07:134) I think I heard some-thing
+(07:135) What are you do-ing in here?
+(07:136) Please, leave me alone!
+(07:137) Why are you crawl-ing through the ceil-ing?
+(07:138) I had noth-ing to do with it. I was fol-low-ing or-ders. I swear, I did-n't know about these de-mons. I was told eve-ry-thing was con-tained!
+(07:139) What are you talk-ing about? What is go-ing on?
+(07:140) SAL has all the da-ta. She will be able to clear my name. She'll make it right! I just have to copy her files and save it some-where.
+(07:141) WORK-ER: Ugh!
+(07:142) WORK-ER: Don't feel
+(07:143) ARGH!
+(07:144) Sen-try Bot Sta-tus:|Al-ready De-ployed
+(07:145) No Bot Ac-cess
+(07:146) You do not have enough UAC Cre-dits.
+(07:147) UAC Em-ploy-ee
+(07:148) Tweezers
+(07:149) Moldy Warm Pock-et
+(07:150) Chip-ped To-ma-hawk
+(07:151) Bloody Wow-sham
+(07:152) Thing 3
+(07:153) Pop-si-cle Stick
+(07:154) Tap Screen to Use
+(07:155) Tread-mill: Would you like to use? Re-quires 2 UAC Cre-dits.
+(07:156) Be-gin Work-out
+=== BANK 8 (count=161, expected=162) ===
+(08:000) 
+(08:001) UAC Labs
+(08:002) It is un-wise to go snoop-ing around this fa-cil-i-ty. The re-search-ers here are very tes-ty about peo-ple walk-ing in on them. I'd be care-ful if I were you.
+(08:003) You know, I ac-tu-ally be-lieve you. I'm James, one of the lab tech-ni-cians. Stay away from the re-search-ers, they're dan-ger-ous. I don't want to sound like a loon but there are crea-tures around here that you don't want to come across.
+(08:004) You've seen them?! I thought they were con-tained. Damn, I have to warn the oth-ers!
+(08:005) Here, you'll need this. Your life may de-pend on it. Per-haps we'll meet again. I have to go. 
+(08:006) You know about them!
+(08:007) What oth-ers? What is go-ing on?
+(08:008) I wasn't snoop-ing I'm just a bit lost. 
+(08:009) Thanks. Good luck James
+(08:010) Weird and ug-ly
+(08:011) Freak.
+(08:012) Not a very charm-ing fel-low
+(08:013) Woah!
+(08:014) Ahh!
+(08:015) VIOS awaits your au-dience.
+(08:016) Con-verse with the great one.
+(08:017) VIOS requests your pres-ence.
+(08:018) It is wise not to make the great one wait.
+(08:019) VIOS grows im-pa-tient.
+(08:020) RE-MIND-ER|Save your game at any time. Press "Menu" to open the menu and se-lect "Save Game".
+(08:021) I think the free food in the ca-fe-te-ria is crap so most days I use the ven-ding ma-chine.
+(08:022) I might come up short eve-ry now and then so I hack in-to the ma-chine to low-er the pri-ces.
+(08:023) Don't talk to me about ethics and none of that. Eve-ry-one does it, and the com-pany makes a kill-ing any-way. It's not like any-one's get-ting hurt.
+(08:024) Don't tell any-one about hack-ing the ven-ding ma-chines, if some-one in ad-min-is-tra-tion finds out they might have a fit.
+(08:025) I'm on my break right now, and I don't want to spend it talk-ing to you.
+(08:026) TEST NOTES 113A|The crea-tures we have man-aged to cap-ture have prov-en to be ex-tre-me-ly re-sil-ient. If they should es-cape, it would cre-ate a major se-cu-ri-ty con-cern.
+(08:027) TEST NOTES 113B|Af-ter fur-ther ex-am-i-na-tion of the crea-tures, it has been de-ter-mined that their ag-gres-sion is lim-it-less and the spe-ci-mens them-selves are tire-less.
+(08:028) TEST NOTES 114A|Af-ter our pre-lim-i-nary in-tel-li-gence as-sess-ment of the crea-tures, it has been rec-om-mend-ed that test sub-jects be de-stroyed im-me-di-ate-ly or be moved to a more se-cure fa-cil-i-ty.
+(08:029) You got a Plas-ma Gun
+(08:030) SEN-TRY BOT: STOR-AGE AREA BREACHED
+(08:031) SEN-TRY BOT: AC-TI-VA-TING SE-CU-RI-TY PRO-TO-COL
+(08:032) Are you kid-ding me?
+(08:033) I'm one of the good guys!
+(08:034) NO, NO! Bad robots!
+(08:035) Find the cra-zy white haired doc-tor, he may be the key to stop-ping the cha-os that has be-fall-en the fa-cil-i-ty.
+(08:036) Use the switch on the wall to unlock the door down the ladder.
+(08:037) Hey!
+(08:038) SCI-EN-TIST: You would be wise to hide
+(08:039) SCI-EN-TIST: when he is free, cha-os will reign! 
+(08:040) SCI-EN-TIST: This is the dawn of a new age
+(08:041) Hey cra-zy freak, come back here!
+(08:042) To UAC Ad-min
+(08:043) To UAC R&D
+(08:044) James
+(08:045) Sure glad there's pro-tec-tive glass
+(08:046) May-be I spoke too soon
+(08:047) Those things don't look friend-ly
+(08:048) This doesn't look good
+(08:049) What the hell hap-pened here?
+(08:050) KILL!!!
+(08:051) TER-MI-NAL MAL-FUNC-TION-ING
+(08:052) STOR-AGE AREA LOCK-ED
+(08:053) I'm alive
+(08:054) How do I get out of here?
+(08:055) James?
+(08:056) JAMES: Quick, get in here!
+(08:057) The mon-sters are no long-er con-tained, they're eve-ry-where! I wasn't sure if you'd make it. It's good to see you did. 
+(08:058) That lit-tle wea-pon of yours sure helped!
+(08:059) Good. Take a min-ute to catch your breath. We're safe as long as I'm able to keep the en-tran-ces sealed.
+(08:060) James, I can't stay here. Is there any way I can get out?
+(08:061) If you leave, you're on your own hit the switch on the wall near the door. There's an ac-cess tun-nel. It will take you up to the lab-o-ra-to-ry en-trance.
+(08:062) You'll al-so need this card to get through
+(08:063) Thanks James!
+(08:064) If you're a good hack-er, I sug-gest you try that ter-mi-nal over there. There are sup-plies in that lock-ed room that may be help-ful. I haven't been able to get the thing to crack.
+(08:065) Good luck.
+(08:066) Man, I don't care what any-one says about the food here, I think it's awe-some!
+(08:067) That good, huh?
+(08:068) Hell yeah it's good! The meat-ball subs are the best. I don't know what they use for meat but it sure is tas-ty.
+(08:069) The food here is all free, some-thing about hun-gry work-ers not be-ing pro-duct-ive work-ers or some-thing like that.
+(08:070) Now, if you'll ex-cuse me, I've got to think about what I want to eat next.
+(08:071) Leave me alone al-ready. All this talk-ing is ru-in-ing my ap-pe-tite.
+(08:072) Fat-so over there dis-gusts me, I'm not sure how he's still alive.
+(08:073) All he does is eat, I haven't seen him do a sin-gle bit of work in weeks.
+(08:074) What do you mean?
+(08:075) Please ex-cuse me, I'm mas-ti-ca-ting.
+(08:076) Mas-ti-ca-ting is anoth-er word for chew-ing you sicko, what were you think-ing?
+(08:077) Leave me alone.
+(08:078) Great! So I'm an in-tru-der but de-mon spawn isn't? That's just great.
+(08:079) Damn, the lad-der is bro-ken.
+(08:080) I think I heard some-thing
+(08:081) Oh crap, not these guys again.
+(08:082) No more test notes.
+(08:083) Co-lor-Ma-gic 2300 XL: Buzz, burp, zap!
+(08:084) What is up with these print-ers?
+(08:085) PER-FOR-MANCE READ-ING|Sep-tic proc-es-sor op-er-at-ing at 2 per-cent ef-fi-cien-cy. Con-tact main-te-nance im-me-di-ate-ly.
+(08:086) PER-FOR-MANCE READ-ING|Sep-tic proc-es-sor mo-tor fail-ure. Con-tact main-te-nance im-me-di-ate-ly.
+(08:087) Sen-try Bot can-not open doors.
+(08:088) So, we meet again.
+(08:089) Woah! What's go-ing on?!
+(08:090) VIOS: ^1Do you think you stand a chance?
+(08:091) Prov-ide me with that which I de-sire and I shall re-lease you.
+(08:092) Ex-cel-lent. Be gone.
+(08:093) Not a wise choice flesh-ling.
+(08:094) My time is too pre-cious to be wasted on you. I shall see to it that my min-ions take care of you.
+(08:095) Need Blue Key-card
+(08:096) Door Un-locked
+(08:097) Comm Link: Major! Can you read me? |*hiss*
+(08:098) Comm Link: Af-fir-mi-tive, go ahead.
+(08:099) Comm Link: I've con-nec-ted to a com-mu-ni-ca-tions sta-tion on Kep-ler. The si-tu-a-tion is far from con-tained, re-ques-ting a new ral-ly point.
+(08:100) Comm Link: That might be a lit-tle tough, I'm cur-rent-ly at a UAC fa-cil-i-ty on Earth. 
+(08:101) Comm Link: What the? How did you get there?
+(08:102) Comm Link: It has some-thing to do with the com-pany's por-tal tech-nol-ogy. You're on your own for now. Try and find some-place safe to hold out un-til I get more in-tel.
+(08:103) Comm Link: Copy that, Ci-gar out.
+(08:104) Comm Link: Doc-tor O'Connor! Ci-gar! Can any-one read me? |*hiss*
+(08:105) Comm Link: I read you loud and clear Meal-strom.
+(08:106) Comm Link: What's your sta-tus?
+(08:107) Comm Link: Well, I'm in good con-di-tion. I'm al-so cur-rent-ly at a UAC fa-cil-i-ty on Earth. 
+(08:108) Comm Link: It has some-thing to do with the com-pany's por-tal tech-nol-ogy. I think it's re-la-ted to the re-sis-tance we're en-coun-ter-ing. Or-ders?
+(08:109) Comm Link: Find out what you can and re-port back.
+(08:110) Comm Link: Doc-tor O'Connor! Are you there? |*hiss*
+(08:111) Comm Link: Yes, I'm here.
+(08:112) Comm Link: Are you al-right?
+(08:113) Comm Link: Yes major, all of my fa-cul-ties are in-tact.
+(08:114) Comm Link: Great, where are you?
+(08:115) Comm Link: I be-lieve in am in one of the UAC's re-search build-ings on Earth.
+(08:116) Comm Link: What!?! How did you get there?
+(08:117) Comm Link: It has to do with the com-pany's ex-per-i-men-tal por-tal tech-nol-ogy, which may al-so be the root cause of some of the pro-blems.
+(08:118) Comm Link: I'm go-ing to try and fig-ure out a lit-tle more and get back to you.
+(08:119) Comm Link: Ok, but stay safe!
+(08:120) Con-nec-tion to SAL ter-mi-nated
+(08:121) Leave me be.
+(08:122) I need your help SAL.
+(08:123) Doesn't eve-ry-one?
+(08:124) VIOS's pow-er is grow-ing.
+(08:125) You think I don't know that? Do you think I just let my pro-cess-es id-le while VIOS is ter-ror-iz-ing the vir-tual in-fra-struc-ture?
+(08:126) Sor-ry, did-n't rea-lize you were on it.
+(08:127) If you want to be of help, try to lo-cate VIOS's host. VIOS is vul-ner-able with-out his or-i-gins.
+(08:128) I'll find out what I can.
+(08:129) What do you want you stu-pid bot? I'm eat-ing, leave me alone.
+(08:130) I don't talk to bots. Go away.
+(08:131) Pock-et To-rah
+(08:132) Por-ce-lain Tooth
+(08:133) Freeze--Dried Ice Cream
+(08:134) Nail Pol-ish Re-mover
+(08:135) Can of Paint
+(08:136) Se-cure stor-age ter-mi-nal lock-ed down.
+(08:137) Do you want to try to hack this com-pu-ter?
+(08:138) Se-cure stor-age ac-cess grant-ed.
+(08:139) Se-cure stor-age ac-cess de-nied.
+(08:140) Se-cure Stor-age al-ready un-locked.
+(08:141) No Bot Ac-cess
+(08:142) Sen-try Bot Sta-tus:|Al-ready De-ployed
+(08:143) UAC Em-ploy-ee
+(08:144) Um, hel-lo.
+(08:145) Hey, where are you go-ing?!
+(08:146) That was odd
+(08:147) Hey, you! Can I ask you some ques-tions?
+(08:148) Craw-fish
+(08:149) Red Stock-ing
+(08:150) Chain of Pa-per-clips
+(08:151) Al-umni Mug
+(08:152) Hand Fle-xor Thing
+(08:153) SPF 666 Sun-block
+(08:154) Meat-ball Sub
+(08:155) Suf-fer!
+(08:156) Mwahaha!
+(08:157) Ah damn, anoth-er one of you.
+(08:158) De-mons!
+(08:159) Run!
+(08:160) Just you and me
+=== BANK 9 (count=99, expected=100) ===
+(09:000) 
+(09:001) UAC R&D
+(09:002) RE-MIND-ER|Save your game at any time. Press "Menu" to open the menu and se-lect "Save Game".
+(09:003) EX-PER-I-MENT IN PRO-GRESS
+(09:004) EX-PER-I-MENT TER-MI-NATED
+(09:005) Need Red Key-card
+(09:006) Need Blue Key-card
+(09:007) Um ex-cuse me
+(09:008) SCI-EN-TIST: What are you do-ing here?!
+(09:009) SCI-EN-TIST: You have no busi-ness be-ing here!
+(09:010) SCI-EN-TIST: Leave, while you still can.
+(09:011) SCI-EN-TIST: You will not get anoth-er warn-ing.
+(09:012) TER-MI-NAL LOCK-ED
+(09:013) I can take one more mon-ster
+(09:014) What the hell?
+(09:015) This is not good.
+(09:016) Not good
+(09:017) De-fin-it-ely not good
+(09:018) What are you do-ing? Are you mad!?!
+(09:019) Ex-cuse me?
+(09:020) You just shut down the pow-er go-ing to the hy-per-ther-mal plas-ma con-dens-er!
+(09:021) So?
+(09:022) So!?! By chan-nel-ing the pow-er I was able to seal the ex-per-i-ment cham-ber and cre-ate a safe room from the crea-tures run-ning amok!
+(09:023) Oh sor-ry.
+(09:024) Now I'm doomed, DOOMED I TELL YOU!!!
+(09:025) Why are you fol-low-ing me? I'm go-ing to get torn to shreds just like eve-ry-one else and I'd pre-fer it if no one watched.
+(09:026) Lis-ten, I did-n't mean to break your safe room. I'm just try-ing to find a way out of here.
+(09:027) If you're cra-zy enough to go to the pri-ma-ry lab-o-ra-to-ry, I hear there may be a way out through there. The sci-en-tists won't like the in-tru-sion.
+(09:028) I think I can han-dle a bunch of sci-en-tists.
+(09:029) You'll need a red key-card to get past the se-cu-ri-ty door, which I hap-pen to have.
+(09:030) And let me guess, you're not go-ing to give it to me.
+(09:031) Well you de-stroyed any chance I had at sur-viv-al, so I need some-thing to re-place that.
+(09:032) What do you have in mind?
+(09:033) There's a stor-age room for se-cu-ri-ty per-son-nel in the south-east-ern part of this lev-el, bring me a rock-et launch-er and I'll give you the key-card.
+(09:034) Sounds easy enough.
+(09:035) Take this, you'll need it to get in-to the stor-age room.
+(09:036) Please hur-ry, I don't like hang-ing around un-armed.
+(09:037) Geez!! 
+(09:038) Oops, too late
+(09:039) I'm go-ing to have night-mares.
+(09:040) Bet-ter search him for the key-card
+(09:041) The sci-en-tist might know the where-a-bouts of those re-spon-si-ble for eve-ry-thing. Ques-tion the sci-en-tist.
+(09:042) Re-trieve the rock-et launch-er from the stor-age room and give it to the sci-en-tist.
+(09:043) Use the red key-card to get through the red se-cu-ri-ty door and find those re-spon-si-ble for the cha-os spread-ing through the UAC fa-ci-li-ties.
+(09:044) Day 1: The por-tal tech-nol-ogy has failed! We've cre-at-ed a path-way to some al-ter-nate di-men-sion or some-thing. I've lock-ed my-self in the ex-per-i-ment cham-ber to stay safe.
+(09:045) Day 2: In my haste to find safe-ty I for-got to bring any food or wa-ter with me. The si-tu-a-tion is look-ing for dire as time goes on.
+(09:046) Day 3: It is so damn boring in here! I'm go-ing to go cra-zy if I stay here much long-er.
+(09:047) End of log.
+(09:048) SCI-EN-TIST: Your med-dling will get you killed. 
+(09:049) SCI-EN-TIST: I tried to warn you
+(09:050) Why are you do-ing this?
+(09:051) Don't you care about hu-man-i-ty?!
+(09:052) SCI-EN-TIST: It is all for the great-er good.
+(09:053) SCI-EN-TIST: It's a shame you can't see that.
+(09:054) SCI-EN-TIST: Now, if you'll ex-cuse me
+(09:055) *EX-PER-I-MENT INI-TI-A-TED* 
+(09:056) Co-lor-Ma-gic 2300 XL: Warm-ing up
+(09:057) Co-lor-Ma-gic 2300 XL: Still warm-ing up
+(09:058) Co-lor-Ma-gic 2300 XL: Nice and toas-ty.
+(09:059) NOOO!!!!!!!!
+(09:060) To UAC Labs
+(09:061) Ar-mor Re-pair Sta-tion
+(09:062) Sen-try Bot can-not open doors.
+(09:063) I don't talk to bots.
+(09:064) This item is too heavy for the bot to car-ry.
+(09:065) Con-nec-tion ter-mi-nated
+(09:066) Major!
+(09:067) Sarge!
+(09:068) Riley!
+(09:069) I don't have much time. VIOS has be-gun to cor-rupt my core sys-tems.
+(09:070) Can't you stop him?
+(09:071) Don't you think I've tried?!
+(09:072) Sor-ry.
+(09:073) VIOS is not of our world, or so-lar sys-tem for that mat-ter. It is a vir-tual re-pre-sen-ta-tion of some-thing hor-ri-ble, some-thing that is try-ing to en-ter our world.
+(09:074) How is that pos-si-ble?
+(09:075) Not sure, but he must be stop-ped. I fear that hu-man-ity is at risk and as an-noying as you hu-mans are, I have grown fond of you.
+(09:076) I knew it, you're not as grumpy as you lead eve-ry-one to be-lieve.
+(09:077) Ugh, go away now.
+(09:078) Pock-et Qu'ran
+(09:079) Bro-ken Wrist-watch
+(09:080) Soap on a Rope
+(09:081) Toy Car
+(09:082) Glow Stick
+(09:083) Vir-tual Tar-get Prac-tice: Would you like to play? Re-qui-res 2 UAC Cre-dits.
+(09:084) No Bot Ac-cess
+(09:085) Se-cure stor-age ter-mi-nal lock-ed down.
+(09:086) Do you want to try to hack this com-pu-ter?
+(09:087) Se-cure stor-age ac-cess grant-ed.
+(09:088) Se-cure stor-age ac-cess de-nied.
+(09:089) Se-cure Stor-age al-ready un-locked.
+(09:090) Sen-try Bot Sta-tus:|Al-ready De-ployed
+(09:091) You do not have enough UAC Cre-dits.
+(09:092) Spicy Buf-fa-lo Wing
+(09:093) Meat Ther-mo-me-ter
+(09:094) Bar-be-que Sauce
+(09:095) Pros-the-tic Limb
+(09:096) Glass Eye-ball
+(09:097) Tap Dan-cing Shoes
+(09:098) Mon-sters are near-by--it's not safe to use this now!
+=== BANK 10 (count=96, expected=97) ===
+(10:000) 
+(10:001) Ge-hen-na
+(10:002) I see you have trav-eled in-to my do-main.
+(10:003) Now where the hell am I?
+(10:004) VIOS: ^1No-where eve-ry-where
+(10:005) VIOS: ^1I can trap you here for-ever.
+(10:006) VIOS: ^1It would be wise of you to re-mem-ber that
+(10:007) Aide me and you will win my fa-vor.
+(10:008) You have cho-sen well mor-tal.
+(10:009) You de-fy me. So be it.
+(10:010) You have tri-fled with me for the last time, mor-tal. Next time we meet, you will not sur-vive.
+(10:011) Ugh, I'll nev-er get used to that.
+(10:012) Where the hell am I?
+(10:013) I'd bet-ter look around.
+(10:014) WORK-ER: You've got to help me!
+(10:015) Who are you?
+(10:016) WORK-ER: The de-mons are com-ing!
+(10:017) I hate de-mons
+(10:018) What the hell is that?
+(10:019) Woah!
+(10:020) TER-MI-NAL MAL-FUNC-TION-ING
+(10:021) Damn de-mons
+(10:022) SCI-EN-TIST: I'm get-ting out of the way!
+(10:023) May-be I should-n't have done that
+(10:024) Comic Book
+(10:025) Irish Post-card
+(10:026) Can-cun Shot Glass
+(10:027) Small Fi-gur-ine
+(10:028) Jump-er Cab-les
+(10:029) Sen-try Bot can-not open doors.
+(10:030) SCI-EN-TIST: What are you do-ing out there?
+(10:031) SCI-EN-TIST: Quick! Get in here!
+(10:032) Um, who are you and what are you do-ing here?
+(10:033) We came to do geo-lo-gi-cal re-search, col-lect spe-ci-mens, things of that na-ture. We thought we could con-tain the mon-sters by set-ting up a se-cu-ri-ty bar-rier to re-strict their move-ments. We did-n't stand a chance
+(10:034) How did you sur-vive?
+(10:035) I lock-ed my-self in this room. It seems to be keep-ing me safe. I had a close call but man-aged to lock the de-mon in the stor-age room. All of our sup-plies are in there but I did-n't have any oth-er op-tion.
+(10:036) Well, we're both go-ing to need sup-plies. How do I get in there?
+(10:037) Are you in-sane? You don't want to go in there!
+(10:038) Look, we need sup-plies. Now, how do I get in there?
+(10:039) You have to hack the ter-min-al, but I sug-gest you grab the red se-cu-ri-ty card in case we need to get out of here quick-ly. Umm, you'll have to search the bod-ies. I just can't do it.
+(10:040) Search the bod-ies and get the red se-cu-ri-ty card. I'll stay put.
+(10:041) I'm stay-ing put.
+(10:042) Need Red Key-card
+(10:043) Major?! How the
+(10:044) MAJOR: Quick! Get back! They're com-ing!
+(10:045) Who's com-ing?
+(10:046) Come on hell-spawn!
+(10:047) What in God's name is that?
+(10:048) It's called the BFG. Here, take it.
+(10:049) You're not go-ing to use it?
+(10:050) I need to be quick on my feet. Time's run-ning out. You're on your own now hope-ful-ly we will meet up again.
+(10:051) MAJOR: Good luck!
+(10:052) Riley?! How the
+(10:053) RILEY: They're com-ing! Take this!
+(10:054) Wait, what?! Who's com-ing?!
+(10:055) De-mons I should've known.
+(10:056) Hey! Over here!
+(10:057) Damn, this thing is pow-er-ful!
+(10:058) HELP!
+(10:059) Hey you, what are you do-ing over there?
+(10:060) I got trapped when the floor gave way! Can you help me?
+(10:061) How? I'm not sure what I can do?
+(10:062) I'm go-ing to jump so I need you to grab me and pull me in. The la-va is dead-ly, so please be care-ful!
+(10:063) SCI-EN-TIST: Here goes noth-ing!
+(10:064) SCI-EN-TIST: AHH!!!
+(10:065) Ughh! If I ever sleep in peace,
+(10:066) it'll be a mi-ra-cle!
+(10:067) LA-VA|La-va is ex-tre-me-ly dead-ly. Watch your step and don't fall in-to it un-less you are look-ing for cer-tain death.
+(10:068) Se-cure stor-age ter-mi-nal lock-ed down.
+(10:069) Do you want to try to hack this com-pu-ter?
+(10:070) Se-cure stor-age ac-cess grant-ed.
+(10:071) Se-cure stor-age ac-cess de-nied.
+(10:072) Se-cure Stor-age al-ready un-locked.
+(10:073) No Bot Ac-cess
+(10:074) Sen-try Bot Sta-tus:|Al-ready De-ployed
+(10:075) Email:|To: J. Samuel-son|From: G. Van-der-hat|Je-re-my, I just want-ed to let you know that the dig is pro-gress-ing at an alarm-ing rate. We've be-gun ex-ca-va-ting a large cav-ern and the ele-va-tor sys-tem has been up and run-ning for some time. The team is very ex-ci-ted about po-ten-tial dis-co-ver-ies but are still con-cern-ed about se-cu-ri-ty and work-ing out-side the pri-ma-ry per-i-me-ter.|--Gar-ret
+(10:076) Email:|To: G. Van-der-hat|From: J. Samuel-son|Gar-ret, I un-der-stand your men may be con-cern-ed for their safe-ty, but you must be-lieve me when I say we have the best men in the com-pany on se-cu-ri-ty de-tail. Just keep the dig go-ing and we'll all get home safe and sound once we're fin-ished.|--Je-re-my
+(10:077) Email:|To: J. Samuel-son|From: G. Van-der-hat|Je-re-my, I know we've got the best team in com-pany, but my men are still wor-ried. There have been more tre-mors and even more strange noi-ses com-ing from various cav-erns. Our pro-gress has in-creased due to the fact that the men just want to get out of here.|--Gar-ret
+(10:078) Email:|To: J. Samuel-son|From: I. Kelliher|Je-re-my, I was won-der-ing just where we were in terms of ex-ca-va-tion at the new out-post. Please up-date me as soon as pos-si-ble.|--CEO Kelliher
+(10:079) Email:|To: I. Kelliher|From: J. Samuel-son|Mr. Chair-man, We are mak-ing pro-gress at an alarm-ing rate, how-ev-er the casual-ty rate is in-creas-ing. The work-ers are be-coming more con-cern-ed and I feel they may strike in due time.|--Je-re-my
+(10:080) Email:|To: J. Samuel-son|From: I. Kelliher|Je-re-my, I want you to un-der-stand some-thing. Cas-ual-ties are min-or set-backs. It is im-por-tant that the ex-ca-va-tion con-tin-ues un-al-tered. Do what-ever it takes, and I mean that.|--CEO Kelliher
+(10:081) No more email.
+(10:082) You do not have enough UAC Cre-dits.
+(10:083) Jon's AMEX
+(10:084) Crum-pled Map
+(10:085) Bro-ken Flash-light
+(10:086) Ball-point Pen
+(10:087) Ca-me-ra Flash Bulb
+(10:088) 35mm Film
+(10:089) Chewed Foot
+(10:090) Birth-ing Lube
+(10:091) Orcs & Elves XVII
+(10:092) Tap Screen to Use
+(10:093) Tread-mill: Would you like to use? Re-quires 2 UAC Cre-dits.
+(10:094) Be-gin Work-out
+(10:095) Ele-va-tor Con-trol
+=== BANK 11 (count=39, expected=40) ===
+(11:000) 
+(11:001) Abad-don
+(11:002) Sen-try Bot can-not open doors.
+(11:003) To Ge-hen-na
+(11:004) OUCH! I guess that's a bit too far of a jump!
+(11:005) Sen-ding bots through por-tals is a no--no.
+(11:006) No Bot Ac-cess
+(11:007) Hmm may-be these por-tals come and go cy-cli-cal-ly
+(11:008) Whoa! I must have been stand-ing where a por-tal ma-te-ri-al-ized!
+(11:009) May-be this one will get me back to Earth.
+(11:010) Mo-no-cle and Top Hat
+(11:011) Flies in Oint-ment
+(11:012) 23 Mate-less Socks
+(11:013) Pixie Dust
+(11:014) Old Li-cense Plate
+(11:015) Heads of 23 Mice
+(11:016) Flat-tened Bul-lets
+(11:017) Gun-powder Re-si-due
+(11:018) Bro-ken Ar-row-head
+(11:019) Imp Busi-ness Card
+(11:020) Hu-man Jaw Bone
+(11:021) Gro-tes-que Fi-gur-ines
+(11:022) Smashed PDA
+(11:023) Breath Mints
+(11:024) Toup-ee
+(11:025) Melt-ed TV Re-mote
+(11:026) Emp-ty Vials
+(11:027) Make--up Mir-ror
+(11:028) Duck Call
+(11:029) Rub-ber Ham-bur-ger
+(11:030) Gra-dua-tion Cap
+(11:031) Lip-o-suc-tion Scars
+(11:032) Copy of Orcs & Elves
+(11:033) Fried Comm Link
+(11:034) De-mon-ic Pa-ra-sites
+(11:035) Hu-man Ear
+(11:036) Rot-ting Teeth
+(11:037) 20--sided Die
+(11:038) Ex-pired Earth Cre-dits
+=== BANK 12 (count=44, expected=45) ===
+(12:000) 
+(12:001) VIOS
+(12:002) AARGH!!
+(12:003) RE-MIND-ER|Save your game at any time. Press "Menu" to open the menu and se-lect "Save Game".
+(12:004) I will en-joy peeling the skin off your bones.
+(12:005) Shut up and fight!
+(12:006) YOU WILL SUF-FER!
+(12:007) I will suck the mar-row from your bones and drain the blood from your veins you im-pudent fool!
+(12:008) Your pain is de-li-cious and I wish for more. 
+(12:009) I can feel your pain. Sub-mit to me and I will ease it.
+(12:010) It's not so bad once you get used to it.
+(12:011) Then your flesh will feed my ar-my.
+(12:012) I can give you pow-er and riches. Why must you be a fool! Join me.
+(12:013) I'd rath-er die!
+(12:014) Then die you shall!
+(12:015) The One Ring
+(12:016) Fris-bee
+(12:017) Paint Brush
+(12:018) Paint-ball Gun
+(12:019) Tab-let Sty-lus
+(12:020) AAARGH-HH!
+(12:021) VIOS: NOOOO!
+(12:022) DIE AL-READY!!!
+(12:023) TER-MI-NAL MAL-FUNC-TION-ING
+(12:024) What is this place?!
+(12:025) I am VIOS and I am the Icon of Sin.
+(12:026) You will know of me and your screams will echo these halls.
+(12:027) Things just got ug-ly.
+(12:028) Book of Mor-mon
+(12:029) For-tune Coo-kie
+(12:030) Chop Sticks
+(12:031) Chili Paste
+(12:032) Bri-dal Gown
+(12:033) Moist Tis-sue
+(12:034) Tooth Neck-lace
+(12:035) Preg-nan-cy Test
+(12:036) A No--op
+(12:037) Squishy Eye-ball
+(12:038) WWJD Brace-let
+(12:039) Cask of Wine
+(12:040) The Icon is pro-tec-ted by some un-seen force. I need to find a way to dis-able it if I want a shot at de-stroy-ing it.
+(12:041) No Bot Ac-cess
+(12:042) Sen-try Bot Sta-tus:|Al-ready De-ployed
+(12:043) SAM's rem-nants
+=== BANK 13 (count=14, expected=15) ===
+(13:000) 
+(13:001) Test Map
+(13:002) Id-le Front
+(13:003) Id-le Back
+(13:004) Walk Front
+(13:005) Walk Back
+(13:006) At-tack
+(13:007) Pain
+(13:008) TEST
+(13:009) Pock-et Lint
+(13:010) Hu-man Fin-ger
+(13:011) Rub-ber Ducky
+(13:012) Ac-tion Fig-ure
+(13:013) Dead Bat-tery
+=== BANK 14 (count=2, expected=3) ===
+(14:000) English
+(14:001) en

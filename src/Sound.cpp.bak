@@ -1,0 +1,35 @@
+#include "Sound.h"
+Sound::Sound() : app(nullptr), allowSounds(false), allowMusics(false), soundFxVolume(0), musicVolume(0), soundsLoaded(false), alContext(nullptr), alDevice(nullptr) {}
+Sound::~Sound() {}
+bool Sound::startup() { return true; }
+void Sound::openAL_Init() {}
+void Sound::openAL_Close() {}
+void Sound::openAL_SetSystemVolume(int) {}
+void Sound::openAL_SetVolume(ALuint, int) {}
+void Sound::openAL_Suspend() {}
+void Sound::openAL_Resume() {}
+bool Sound::openAL_IsPlaying(ALuint) { return false; }
+bool Sound::openAL_IsPaused(ALuint) { return false; }
+bool Sound::openAL_GetALFormat(AudioStreamBasicDescription, ALenum*) { return false; }
+void Sound::openAL_PlaySound(ALuint, ALint) {}
+void Sound::openAL_LoadSound(int, Sound::SoundStream*) {}
+bool Sound::openAL_LoadWAVFromFile(ALuint, const char*) { return false; }
+bool Sound::openAL_LoadAudioFileData(const char*, ALenum*, ALvoid**, ALsizei*, ALsizei*) { return false; }
+bool Sound::openAL_OpenAudioFile(const char*, InputStream*) { return false; }
+bool Sound::openAL_LoadAllSounds() { return true; }
+bool Sound::cacheSounds() { return true; }
+void Sound::playSound(int16_t, uint8_t, int, bool) {}
+int Sound::getFreeSlot(int) { return -1; }
+void Sound::soundStop() {}
+void Sound::stopSound(int, bool) {}
+bool Sound::isSoundPlaying(int16_t) { return false; }
+void Sound::updateVolume() {}
+void Sound::playCombatSound(int16_t, uint8_t, int) {}
+bool Sound::cacheCombatSound(int) { return true; }
+void Sound::freeMonsterSounds() {}
+void Sound::volumeUp(int) {}
+void Sound::volumeDown(int) {}
+void Sound::startFrame() {}
+void Sound::endFrame() {}
+void Sound::musicVolumeUp(int) {}
+void Sound::musicVolumeDown(int) {}

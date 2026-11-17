@@ -1,0 +1,7 @@
+*.o
+*.elf
+*.opk
+*.ipa
+opk_tmp/
+build/
+build_x64/

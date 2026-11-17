@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Doom II RPG
+Comment=Doom II RPG for RS-97
+Exec=DoomIIRPG
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=games;
